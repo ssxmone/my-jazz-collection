@@ -10,7 +10,7 @@ layout: default
   {% for item in sorted %}
     <div class="album-card">
       <img src="{{ site.baseurl }}/albums/{{ item.file }}" alt="{{ item.artist }} - {{ item.album }}">
-      <p class="caption"><strong>{{ item.artist }}</strong><br>{{ item.title } - <emph>{{ item.year }}</emph></p>
+      <p class="caption"><strong>{{ item.artist }}</strong><br>{{ item.title } - {{ item.year }}</p>
     </div>
   {% endfor %}
 </div>
