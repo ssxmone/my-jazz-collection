@@ -9,7 +9,7 @@ layout: default
 <div class="grid">
   {% for item in sorted %}
     <div class="album-card">
-      <img src="/albums/{{ item.file }}" alt="{{ item.artist }} - {{ item.album }}">
+      <img src="albums/{{ item.file }}" alt="{{ item.artist }} - {{ item.album }}">
       <p class="caption"><strong>{{ item.artist }}</strong><br>{{ item.album }}</p>
     </div>
   {% endfor %}
