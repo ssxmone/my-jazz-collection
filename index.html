@@ -10,7 +10,7 @@ layout: default
   {% for item in sorted %}
     <div class="album-card">
       <img src="{{ site.baseurl }}/albums/{{ item.file }}" alt="{{ item.artist }} - {{ item.album }}">
-      <p class="caption"><strong>{{ item.artist }}</strong><br>{{ item.title } - {{ item.year }}</p>
+      <p class="caption"><strong>{{ item.title }}</strong><br>{{ item.title } - {{ item.year }}</p>
     </div>
   {% endfor %}
 </div>
@@ -18,7 +18,7 @@ layout: default
 <style>
 .grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
   gap: 24px;
   max-width: 1500px;
   margin: 0 auto;
