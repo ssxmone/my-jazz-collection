@@ -602,13 +602,13 @@
   artist: Keith Jarrett
   year: 1975
   file: jarret_keith-koln-conceer.jpg
-- title: null
-  artist: null
-  year: null
+- title:
+  artist:
+  year:
   file: jazz.indd
-- title: null
-  artist: null
-  year: null
+- title:
+  artist:
+  year:
   file: jazz.pdf
 - title: The Composer of Desafinado, Plays
   artist: Antonio Carlos Jobim
@@ -850,13 +850,13 @@
   artist: Lee Morgan
   year: 1968
   file: morgan_lee-sonic-boom.jpg
-- title: null
-  artist: null
-  year: null
+- title:
+  artist:
+  year:
   file: my-jazz-selection.indd
-- title: null
-  artist: null
-  year: null
+- title:
+  artist:
+  year:
   file: my-qobuz-library.csv
 - title: Unicorn
   artist: Teruo Nakamura
@@ -926,13 +926,13 @@
   artist: Ike Quebec
   year: 1964
   file: quebec_ike-it-might-as-well-be-spring.jpg
-- title: null
-  artist: null
-  year: null
+- title:
+  artist:
+  year:
   file: r-3478334-1738573649-8125.jpg
-- title: null
-  artist: null
-  year: null
+- title:
+  artist:
+  year:
   file: r-4784686-1392813866-8448.jpg
 - title: The Heliocentric Worlds of Sun Ra, Volume One
   artist: Sun Ra
