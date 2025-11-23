@@ -1,0 +1,44 @@
+---
+layout: default
+---
+
+{% assign sorted = site.data.albums | sort: "artist" %}
+
+<h1 style="text-align:center;">My Album Covers</h1>
+
+<div class="grid">
+  {% for item in sorted %}
+    <div class="album-card">
+      <img src="/albums/{{ item.file }}" alt="{{ item.artist }} - {{ item.album }}">
+      <p class="caption"><strong>{{ item.artist }}</strong><br>{{ item.album }}</p>
+    </div>
+  {% endfor %}
+</div>
+
+<style>
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 24px;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.album-card {
+  text-align: center;
+}
+
+.album-card img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+}
+
+.caption {
+  margin-top: 8px;
+  font-size: 0.9rem;
+  color: #555;
+}
+</style>
