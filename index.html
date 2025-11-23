@@ -4,13 +4,13 @@ layout: default
 
 {% assign sorted = site.data.albums | sort: "artist" %}
 
-<h1 style="text-align:center;">My Album Covers</h1>
+<h1 style="text-align:center;">My Jazz Collection</h1>
 
 <div class="grid">
   {% for item in sorted %}
     <div class="album-card">
       <img src="{{ site.baseurl }}/albums/{{ item.file }}" alt="{{ item.artist }} - {{ item.album }}">
-      <p class="caption"><strong>{{ item.title }}</strong><br>{{ item.title } - {{ item.year }}</p>
+      <p class="caption"><strong>{{ item.title }}</strong><br>{{ item.artist } - {{ item.year }}</p>
     </div>
   {% endfor %}
 </div>
