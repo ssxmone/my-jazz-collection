@@ -9,8 +9,11 @@ layout: default
 <div class="grid">
   {% for item in sorted %}
     <div class="album-card">
-      <img src="{{ site.baseurl }}/albums/{{ item.file }}" alt="{{ item.artist }} - {{ item.album }}">
-      <p class="caption"><strong>{{ item.title }}</strong><br>{{ item.artist } - {{ item.year }}</p>
+      <img src="{{ site.baseurl }}/albums/{{ item.file }}" alt="{{ item.artist }} - {{ item.title }}">
+      <p class="caption">
+        <strong class="title">{{ item.title }}</strong>
+        <span class="meta">{{ item.artist }} - {{ item.year }}</span>
+      </p>
     </div>
   {% endfor %}
 </div>
@@ -36,9 +39,24 @@ layout: default
   box-shadow: 0 2px 8px rgba(0,0,0,0.15);
 }
 
+/* Caption layout */
 .caption {
   margin-top: 8px;
-  font-size: 0.9rem;
-  color: #555;
+}
+
+/* Album title (bold) */
+.caption .title {
+  display: block;
+  font-weight: 700;
+  color: #222;
+  font-size: 1rem;
+}
+
+/* Artist - Year (smaller, gray) */
+.caption .meta {
+  display: block;
+  margin-top: 4px;
+  font-size: 0.85rem;
+  color: #666;
 }
 </style>
