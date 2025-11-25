@@ -21,22 +21,28 @@ layout: default
 <style>
 .grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+  /* Force three equal columns on wide screens; increase the min to make covers larger */
+  grid-template-columns: repeat(3, minmax(300px, 1fr));
   gap: 24px;
-  max-width: 1500px;
+  max-width: 1200px; /* Wider columns across the page */
   margin: 0 auto;
   padding: 20px;
+  justify-items: center;
 }
 
 .album-card {
   text-align: center;
+  width: 100%;
 }
 
+/* Make images fill the column width while keeping aspect ratio */
 .album-card img {
   width: 100%;
   height: auto;
   border-radius: 8px;
   box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+  display: block;
+  object-fit: cover;
 }
 
 /* Caption layout */
@@ -58,5 +64,24 @@ layout: default
   margin-top: 4px;
   font-size: 0.85rem;
   color: #666;
+}
+
+/* Responsive adjustments */
+@media (max-width: 1000px) {
+  .grid {
+    grid-template-columns: repeat(2, minmax(240px, 1fr));
+    max-width: 900px;
+  }
+}
+
+@media (max-width: 600px) {
+  .grid {
+    grid-template-columns: 1fr;
+    max-width: 420px;
+    padding: 12px;
+  }
+  .caption .title {
+    font-size: 0.98rem;
+  }
 }
 </style>
