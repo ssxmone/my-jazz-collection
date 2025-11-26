@@ -10,8 +10,13 @@ layout: default
   <span id="collectionCount" aria-live="polite">
     {{ sorted | size }} {{ sorted | size | pluralize: "album", "albums" }}
   </span>
-  <button id="randomBtn" style="margin-left:14px; padding:8px 12px; border-radius:6px; border:1px solid #ccc; background:#fff; cursor:pointer;">
-    Random!
+
+  <button id="randomBtn" style="margin-left:14px; padding:8px 12px; border-radius:6px; border:1px solid var(--border); background:var(--control-bg); color:var(--text); cursor:pointer;">
+    Surprise me
+  </button>
+
+  <button id="themeToggle" aria-pressed="false" style="margin-left:14px; padding:8px 12px; border-radius:6px; border:1px solid var(--border); background:var(--control-bg); color:var(--text); cursor:pointer;">
+    Dark mode
   </button>
 </div>
 
@@ -34,49 +39,89 @@ layout: default
 </div>
 
 <style>
+/* Theme variables */
+:root {
+  --bg: #ffffff;
+  --text: #111111;
+  --muted: #666666;
+  --card-bg: rgba(255,255,255,0.0);
+  --border: #dddddd;
+  --control-bg: #ffffff;
+  --shadow: 0 2px 12px rgba(0,0,0,0.16);
+  --accent: #ffd700;
+}
+
+.dark {
+  --bg: #0b0b0d;
+  --text: #eaeaea;
+  --muted: #bfbfbf;
+  --card-bg: rgba(255,255,255,0.02);
+  --border: #2b2b2b;
+  --control-bg: #0f0f10;
+  --shadow: 0 2px 12px rgba(0,0,0,0.6);
+  --accent: #ffcf33;
+}
+
 /* Ensure consistent sizing */
 * { box-sizing: border-box; }
 
-.grid {
-  display: grid;
-  /* Larger equal columns to make covers bigger */
-  grid-template-columns: repeat(3, minmax(360px, 1fr));
-  gap: 48px; /* more horizontal distance between columns */
-  width: min(1320px, 96%); /* limit overall width but let it expand on large screens */
-  max-width: 1320px;
-  margin: 0 auto; /* center the grid container */
-  padding: 20px;
-  justify-content: center; /* center the grid within the available space */
+html, body {
+  height: 100%;
 }
 
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+  transition: background-color 220ms ease, color 220ms ease;
+}
+
+/* Controls area styling */
+.controls button {
+  transition: background-color 150ms ease, transform 120ms ease, box-shadow 120ms ease;
+}
+.controls button:active { transform: translateY(1px); }
+
+/* Grid layout */
+.grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(360px, 1fr));
+  gap: 48px;
+  width: min(1320px, 96%);
+  max-width: 1320px;
+  margin: 0 auto;
+  padding: 20px;
+  justify-content: center;
+}
+
+/* Album card */
 .album-card {
   text-align: center;
   width: 100%;
-  scroll-margin: 120px; /* so scrollIntoView centers with header spacing on most screens */
+  scroll-margin: 120px;
   transition: transform 160ms ease, box-shadow 160ms ease, outline 160ms ease;
 }
 
-/* Make the anchor wrap behave like a block so it fills the card width */
+/* Anchor and image */
 .album-card a {
   display: block;
   text-decoration: none;
   color: inherit;
 }
-
-/* Make images fill the column width while keeping aspect ratio.
-   Limit max-height so very large images don't become too tall. */
 .album-card img {
   width: 100%;
   height: auto;
   max-height: 520px;
   border-radius: 8px;
-  box-shadow: 0 2px 12px rgba(0,0,0,0.16);
+  box-shadow: var(--shadow);
   display: block;
   object-fit: cover;
   transition: transform 180ms ease, box-shadow 180ms ease;
+  background: var(--card-bg);
 }
 
-/* subtle hover effect when link exists */
+/* hover for linked covers */
 .album-card a:hover img {
   transform: translateY(-4px) scale(1.01);
   box-shadow: 0 6px 20px rgba(0,0,0,0.24);
@@ -86,40 +131,31 @@ layout: default
 .caption {
   margin-top: 10px;
 }
-
-/* Album title (bold) */
 .caption .title {
   display: block;
   font-weight: 700;
-  color: #222;
+  color: var(--text);
   font-size: 1.05rem;
 }
-
-/* Artist - Year (smaller, gray) */
 .caption .meta {
   display: block;
   margin-top: 6px;
   font-size: 0.88rem;
-  color: #666;
+  color: var(--muted);
 }
 
 /* Flash/highlight when random selected */
 .album-card.flash {
   transform: translateY(-6px);
   box-shadow: 0 10px 30px rgba(0,0,0,0.28);
-  outline: 4px solid rgba(255, 215, 0, 0.22);
+  outline: 4px solid rgba(255, 215, 0, 0.18);
   border-radius: 10px;
 }
 
 /* Focus style for keyboard users */
 .album-card:focus {
-  outline: 3px solid rgba(30, 144, 255, 0.32);
+  outline: 3px solid rgba(30, 144, 255, 0.24);
   outline-offset: 4px;
-}
-
-/* Controls button hover */
-#randomBtn:hover {
-  background:#f7f7f7;
 }
 
 /* Responsive adjustments */
@@ -130,7 +166,6 @@ layout: default
     width: min(900px, 96%);
   }
 }
-
 @media (max-width: 640px) {
   .grid {
     grid-template-columns: 1fr;
@@ -146,13 +181,15 @@ layout: default
 
 <script>
 /*
-  Random album picker: picks a random album-card on the page and scrolls to it.
-  It does NOT follow the album's external link.
+  Combined script:
+  - Random album picker (scrolls to a random album-card)
+  - Theme toggle (light/dark), stores preference in localStorage, respects system preference on first load
 */
+
 (function () {
+  // ----- Random picker -----
   const total = {{ sorted | size }};
   const btn = document.getElementById('randomBtn');
-  if (!btn || !total) return;
 
   function pickRandomIndex() {
     return Math.floor(Math.random() * total);
@@ -162,27 +199,25 @@ layout: default
     const id = 'album-' + idx;
     const el = document.getElementById(id);
     if (!el) return;
-    // Make it focusable so keyboard users can tab back, then focus
-    el.setAttribute('tabindex', '-1');
+    el.setAttribute('tabindex', '-1'); // make focusable
     el.focus({preventScroll: true});
     el.scrollIntoView({ behavior: 'smooth', block: 'center' });
 
-    // Add a temporary highlight
     el.classList.add('flash');
     window.setTimeout(() => {
       el.classList.remove('flash');
     }, 1400);
   }
 
-  btn.addEventListener('click', (e) => {
-    e.preventDefault();
-    const idx = pickRandomIndex();
-    scrollToAlbum(idx);
-  });
+  if (btn && total) {
+    btn.addEventListener('click', (e) => {
+      e.preventDefault();
+      const idx = pickRandomIndex();
+      scrollToAlbum(idx);
+    });
+  }
 
-  // Allow pressing 'r' on the page to trigger the same action (optional)
   document.addEventListener('keydown', (e) => {
-    // ignore when typing in inputs or textareas
     const tag = (e.target && e.target.tagName) || '';
     if (tag === 'INPUT' || tag === 'TEXTAREA' || e.altKey || e.ctrlKey || e.metaKey) return;
     if (e.key === 'r' || e.key === 'R') {
@@ -190,5 +225,68 @@ layout: default
       scrollToAlbum(idx);
     }
   });
+
+  // ----- Theme toggle -----
+  const themeToggle = document.getElementById('themeToggle');
+  const storageKey = 'my-jazz-theme'; // localStorage key
+
+  function applyTheme(mode) {
+    // mode = 'dark' or 'light'
+    const root = document.documentElement;
+    if (mode === 'dark') {
+      root.classList.add('dark');
+      themeToggle.setAttribute('aria-pressed', 'true');
+      themeToggle.textContent = 'Light mode';
+    } else {
+      root.classList.remove('dark');
+      themeToggle.setAttribute('aria-pressed', 'false');
+      themeToggle.textContent = 'Dark mode';
+    }
+  }
+
+  function getPreferredTheme() {
+    // 1) check localStorage
+    try {
+      const stored = localStorage.getItem(storageKey);
+      if (stored === 'dark' || stored === 'light') return stored;
+    } catch (err) { /* ignore */ }
+
+    // 2) system preference
+    if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+      return 'dark';
+    }
+    return 'light';
+  }
+
+  function toggleTheme() {
+    const current = document.documentElement.classList.contains('dark') ? 'dark' : 'light';
+    const next = current === 'dark' ? 'light' : 'dark';
+    applyTheme(next);
+    try {
+      localStorage.setItem(storageKey, next);
+    } catch (err) { /* ignore */ }
+  }
+
+  // initialize theme
+  if (themeToggle) {
+    const initial = getPreferredTheme();
+    applyTheme(initial);
+
+    themeToggle.addEventListener('click', (e) => {
+      e.preventDefault();
+      toggleTheme();
+    });
+
+    // Keep toggle label in sync if user changes system preference and there's no stored preference
+    try {
+      if (!localStorage.getItem(storageKey) && window.matchMedia) {
+        window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', (e) => {
+          applyTheme(e.matches ? 'dark' : 'light');
+        });
+      }
+    } catch (err) {
+      // some browsers may not support addEventListener on MediaQueryList
+    }
+  }
 })();
 </script>
