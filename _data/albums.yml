@@ -1,1003 +1,2556 @@
-- title: Cannonball's Bossa Nova
-  artist: Cannonball Adderley
-  year: 1962
-  file: adderley_cannonball-bossa-nova.jpg
-
-- title: Somethin' Else
-  artist: Cannonball Adderley
-  year: 1958
-  file: adderley_cannonball-somethin-else.jpg
-
-- title:
-  artist:
-  year:
-  file: ali.jpg
-
-- title: Booppin' with
-  artist: Chet Baker
-  year:
-  file: baker_chet-booppin-with.jpg
-
-- title:
-  artist:
-  year:
-  file: baker_chet-chet-baker-sings-2.jpg
-
-- title: Chet Baker Sings
-  artist: Chet Baker
-  year: 1954
-  file: baker_chet-chet-baker-sings.jpg
-
-- title: Cool Burnin'
-  artist: Chet Baker
-  year:
-  file: baker_chet-cool-burnin.jpg
-
-- title:
-  artist:
-  year:
-  file: blakey_art-art-blkaey-1.jpg
-
-- title:
-  artist:
-  year:
-  file: blakey_art-birdland-2.jpg
-
-- title:
-  artist:
-  year:
-  file: blakey_art-blakey-birdland-1.jpg
-
-- title:
-  artist:
-  year:
-  file: blakey_art-caravan.jpg
-
-- title: Free for All
-  artist: Art Blakey & The Jazz Messengers
-  year: 1964
-  file: blakey_art-free-for-all.jpg
-
-- title: Indestructible
-  artist: Art Blakey & The Jazz Messengers
-  year: 1964
-  file: blakey_art-indestructible.jpg
-
-- title:
-  artist:
-  year:
-  file: blakey_art-just-coolin.jpg
-
-- title: Moanin'
-  artist: Art Blakey & The Jazz Messengers
-  year: 1958
-  file: blakey_art-moanin.jpg
-
-- title:
-  artist:
-  year:
-  file: blakey_art-the-vig-beat.jpg
-
-- title:
-  artist:
-  year:
-  file: blue-earth-cicero-nights.jpg
-
-- title: Dave Brubeck at Carnegie Hall
-  artist: The Dave Brubeck Quartet
-  year: 1963
-  file: brubeck_dave-brubeck-carnegie-hall.jpg
-
-- title: Time Out
-  artist: The Dave Brubeck Quartet
+- id: 1285724
+  title: 5 By Monk By 5
+  artist: Thelonious Monk
   year: 1959
-  file: brubeck_dave-time-out.jpg
-
-- title: Buena Vista Social Club
-  artist: Buena Vista Social Club
-  year: 1997
-  file: buena-vista-social-club.jpg
-
-- title: Midnight Blue
-  artist: Kenny Burrell
-  year: 1963
-  file: burrell_kenny-midnight-blue.jpg
-
-- title: A New Perspective
-  artist: Donald Byrd
-  year: 1963
-  file: byrd_donald-a-new-perspective.jpg
-
-- title: Black Byrd
-  artist: Donald Byrd
-  year: 1973
-  file: byrd_donald-black-byrd.jpg
-
-- title: Chant
-  artist: Donald Byrd
-  year: 1961
-  file: byrd_donald-chant.jpg
-
-- title: Electric Byrd
-  artist: Donald Byrd
+  cover: 1285724.jpg
+- id: 29280679
+  title: Abraxas
+  artist: Santana
   year: 1970
-  file: byrd_donald-electric-byrd.jpg
-
-- title: Spaces and Places
-  artist: Donald Byrd
-  year:
-  file: byrd_donald-spaces-and-places.jpg
-
-- title: Casiopea
-  artist: Casiopea
-  year: 1979
-  file: casiopea-casiopea.jpg
-
-- title: Live & Best (Live & Best)
-  artist: Casiopea
-  year:
-  file: casiopea-live-and-best.jpg
-
-- title: Make Up City
-  artist: Casiopea
-  year: 1980
-  file: casiopea-make-up-city.jpg
-
-- title: Mint Jams
-  artist: Casiopea
-  year: 1978
-  file: casiopea-mint-jams.jpg
-
-- title: Super Flight
-  artist: Casiopea
-  year: 1979
-  file: casiopea-super-flight.jpg
-
-- title: The Shape of Jazz to Come
-  artist: Ornette Coleman
-  year: 1959
-  file: coleman_ornette-the-shape-jazz-to-come.jpg
-
-- title: Journey in Satchidananda
-  artist: Alice Coltrane
-  year: 1971
-  file: coltrane_alice-journey-satchidananda.jpg
-
-- title: Ptah, the El Daoud
-  artist: Alice Coltrane
-  year: 1970
-  file: coltrane_alice-ptah-the-el-daoud.jpg
-
-- title: A Love Supreme
-  artist: John Coltrane
+  cover: 29280679.jpg
+- id: 77675115
+  title: A Charlie Brown Christmas (2012 Remastered & Expanded Edition)
+  artist: Vince Guaraldi
   year: 1965
-  file: coltrane_john-a-love-supreme.jpg
-
-- title: Africa/Brass
-  artist: John Coltrane
-  year: 1961
-  file: coltrane_john-africa-brass.jpg
-
-- title: Ascension
-  artist: John Coltrane
-  year: 1966
-  file: coltrane_john-ascension.jpg
-
-- title: Bahia
-  artist: John Coltrane
-  year:
-  file: coltrane_john-bahia.jpg
-
-- title: Ballads
-  artist: John Coltrane
-  year: 1962
-  file: coltrane_john-ballads.jpg
-
-- title: Blue Train
-  artist: John Coltrane
-  year: 1957
-  file: coltrane_john-blue-train.jpg
-
-- title: "Both Directions at Once: The Lost Album"
-  artist: John Coltrane
-  year: 2018
-  file: coltrane_john-both-directions-at-once.jpg
-
-- title: Coltrane (Impulse 7150)
-  artist: John Coltrane
-  year:
-  file: coltrane_john-coltrane-coltrane-7150.jpg
-
-- title: Coltrane (Prestige)
-  artist: John Coltrane
-  year:
-  file: coltrane_john-coltrane-coltrane.jpg
-
-- title: Coltrane (with Eric Dolphy) - Village Vanguard
-  artist: John Coltrane & Eric Dolphy
-  year:
-  file: coltrane_john-coltrane-dolphy-village-vanguard.jpg
-
-- title: John Coltrane and Johnny Hartman
-  artist: John Coltrane & Johnny Hartman
-  year: 1963
-  file: coltrane_john-coltrane-hartman.jpg
-
-- title: Live at Birdland
-  artist: John Coltrane
-  year: 1964
-  file: coltrane_john-coltrane-live-at-birdland.jpg
-
-- title: Live Village Vanguard (Coltrane)
-  artist: John Coltrane
-  year:
-  file: coltrane_john-coltrane-live-village-vanguard.jpg
-
-- title: Coltrane's Sound
-  artist: John Coltrane
-  year: 1964
-  file: coltrane_john-coltranes-sound.jpg
-
-- title: Concert in Japan
-  artist: John Coltrane
-  year: 1966
-  file: coltrane_john-concert-in-japan.jpg
-
-- title: Crescent
-  artist: John Coltrane
-  year: 1964
-  file: coltrane_john-crescent.jpg
-
-- title: Duke Ellington & John Coltrane
-  artist: Duke Ellington & John Coltrane
-  year: 1962
-  file: coltrane_john-ellington-coltrane.jpg
-
-- title: Giant Steps
-  artist: John Coltrane
-  year: 1960
-  file: coltrane_john-giant-steps.jpg
-
-- title: Impressions
-  artist: John Coltrane
-  year:
-  file: coltrane_john-impressions.jpg
-
-- title: My Favorite Things
-  artist: John Coltrane
-  year: 1961
-  file: coltrane_john-my-favorite-things.jpg
-
-- title: Newport '63
-  artist: John Coltrane
-  year: 1963
-  file: coltrane_john-newport-63.jpg
-
-- title: Olé Coltrane
-  artist: John Coltrane
-  year: 1961
-  file: coltrane_john-ole-coltrane.jpg
-
-- title: Om
-  artist: John Coltrane
-  year: 1968
-  file: coltrane_john-om-coltrane.jpg
-
-- title: Soultrane
-  artist: John Coltrane
-  year: 1958
-  file: coltrane_john-soultrane.jpg
-
-- title: Stardust
-  artist: John Coltrane
-  year:
-  file: coltrane_john-stardust.jpg
-
-- title: Stellar Regions
-  artist: John Coltrane
-  year: 1995
-  file: coltrane_john-stellar-regions.jpg
-
-- title: Traneing In
-  artist: John Coltrane
-  year: 1958
-  file: coltrane_john-traneing-in.jpg
-
-- title: The J.C. Quartet Plays
-  artist: John Coltrane (The J.C. Quartet)
-  year:
-  file: coltrane_john_the-jc-quartet-plays.jpg
-
-- title: Blue Notes Tokyo
-  artist: Chick Corea
-  year:
-  file: corea_chick--blue-notes-tokyo.jpg
-
-- title: Light as a Feather
-  artist: Chick Corea
-  year: 1972
-  file: corea_chick-light-as-featheer.jpg
-
-- title: The Mad Hatter
-  artist: Chick Corea
-  year: 1978
-  file: corea_chick-mad-hatter.jpg
-
-- title: Now He Sings, Now He Sobs
-  artist: Chick Corea
-  year: 1968
-  file: corea_chick-now-he-sings-now-he-sobs.jpg
-
-- title: Return to Forever
-  artist: Chick Corea
-  year: 1972
-  file: corea_chick-return-to-forever.jpg
-
-- title: Trilogy, Vol. 2
-  artist: Chick Corea
-  year:
-  file: corea_chick-trilogy-2.jpg
-
-- title: Trilogy, Vol. 3
-  artist: Chick Corea
-  year:
-  file: corea_chick-trilogy-3.jpg
-
-- title: Four & More
-  artist: Miles Davis
-  year: 1964
-  file: davis_miles--four-and-more.jpg
-
-- title: Birth of the Cool
-  artist: Miles Davis
-  year: 1957
-  file: davis_miles-birth-of-the-cool.jpg
-
-- title: Bitches Brew
-  artist: Miles Davis
-  year: 1970
-  file: davis_miles-bitches-brew.jpg
-
-- title: Cookin' with the Miles Davis Quintet
-  artist: Miles Davis
-  year: 1956
-  file: davis_miles-cookin-with-miles-davis-quintet.jpg
-
-- title: In a Silent Way
-  artist: Miles Davis
-  year: 1969
-  file: davis_miles-in-a-silent-way.jpg
-
-- title: Jazz at the Plaza
-  artist: Miles Davis
-  year:
-  file: davis_miles-jazz-at-the-plaza.jpg
-
-- title: Kind of Blue
-  artist: Miles Davis
-  year: 1959
-  file: davis_miles-kind-of-blue.jpg
-
-- title: Live-Evil
-  artist: Miles Davis
+  cover: 77675115.jpg
+- id: 91437651
+  title: Acquiring The Taste
+  artist: Gentle Giant
   year: 1971
-  file: davis_miles-live-evil.jpg
-
-- title: Miles Ahead
-  artist: Miles Davis
-  year: 1957
-  file: davis_miles-miles-ahead.jpg
-
-- title: Miles Davis Jazz Giants
-  artist: Miles Davis
-  year:
-  file: davis_miles-miles-davis-jazz-giants.jpg
-
-- title: Miles in the Sky
-  artist: Miles Davis
-  year: 1968
-  file: davis_miles-miles-in-the-sky.jpg
-
-- title: Isle of Wight (Miles)
-  artist: Miles Davis
-  year:
-  file: davis_miles-miles-isle-of-wight.jpg
-
-- title: Miles & Monk at Newport
-  artist: Miles Davis & Thelonious Monk
-  year:
-  file: davis_miles-miles-monk-newprot.jpg
-
-- title: Milestone
-  artist: Miles Davis
-  year:
-  file: davis_miles-milestone.jpg
-
-- title: Round About Midnight
-  artist: Miles Davis
-  year: 1957
-  file: davis_miles-round-bout-midnight.jpg
-
-- title: Someday My Prince Will Come
-  artist: Miles Davis
+  cover: 91437651.jpg
+- id: 77609808
+  title: Adam's Apple
+  artist: Wayne Shorter
+  year: 1967
+  cover: 77609808.jpg
+- id: 144498344
+  title: Adventures
+  artist: THE SQUARE / T-SQUARE
+  year: 1984
+  cover: 144498344.jpg
+- id: 77567950
+  title: Africa/Brass
+  artist: John Coltrane
   year: 1961
-  file: davis_miles-someday-my-prince-will-come.jpg
-
-- title: Volume 1
-  artist: Miles Davis
-  year:
-  file: davis_miles-volume-1-davis.jpg
-
-- title: Volume 2
-  artist: Miles Davis
-  year:
-  file: davis_miles-volume-2-davis.jpg
-
-- title: Walkin'
-  artist: Miles Davis
-  year: 1957
-  file: davis_miles-walkin.jpg
-
-- title: Birth of the Blue (typo in slug)
-  artist: Miles Davis
-  year:
-  file: davism-miles-birth-of-the-blue.jpg
-
-- title: Joshua Tree
-  artist: Yussef Dayes
-  year:
-  file: dayes_yussef-yussef-dayes-jousha-tree.jpg
-
-- title: Malibu
-  artist: Yussef Dayes
-  year: 2023
-  file: dayes_yussef-yussef-dayes-malibu.jpg
-
-- title: Afro-Cuban
+  cover: 77567950.jpg
+- id: 2472033
+  title: Afro-Cuban (Rudy Van Gelder Edition)
   artist: Kenny Dorham
   year: 1955
-  file: dohram_kenny-afro-cuban.jpg
-
-- title: Quiet Kenny
-  artist: Kenny Dorham
-  year: 1959
-  file: dohram_kenny-quiet-kenny.jpg
-
-- title: Una Mas
-  artist: Kenny Dorham
-  year: 1963
-  file: dohram_kenny-una-mas.jpg
-
-- title: Conversations with Myself
-  artist: Bill Evans
-  year: 1963
-  file: evans_bill-conversations-with-myself.jpg
-
-- title: Explorations
-  artist: Bill Evans
-  year:
-  file: evans_bill-explorations.jpg
-
-- title: Moon Beams
-  artist: Bill Evans
-  year: 1962
-  file: evans_bill-moon-beams.jpg
-
-- title: Portrait in Jazz
-  artist: Bill Evans
-  year: 1959
-  file: evans_bill-potrait-in-jazz.jpg
-
-- title: Sunday at the Village Vanguard
-  artist: Bill Evans
-  year:
-  file: evans_bill-sunday-village-vanguard.jpg
-
-- title: Undercurrent
-  artist: Bill Evans & Jim Hall
-  year: 1962
-  file: evans_bill-undercurrent.jpg
-
-- title: Waltz for Debby
-  artist: Bill Evans
-  year: 1961
-  file: evans_bill-waltz-for-debby.jpg
-
-- title: Fukui in New York
-  artist: Ryo Fukui
-  year:
-  file: fukui_ryo-fukui-in-new-york.jpg
-
-- title: Scenery
-  artist: Ryo Fukui
-  year:
-  file: fukui_ryo-scenery.jpg
-
-- title:
-  artist:
-  year:
-  file: fukumura_hiroshi-.jpg
-
-- title: Red Garland's Piano
+  cover: 2472033.jpg
+- id: 4011443
+  title: Afro-Harping
+  artist: Dorothy Ashby
+  year: 1968
+  cover: 4011443.jpg
+- id: 100443423
+  title: 'Ahmad Jamal At The Pershing: But Not For Me'
+  artist: Ahmad Jamal Trio
+  year: 1958
+  cover: 100443423.jpg
+- id: 33367982
+  title: Ahmad Jamal Plays (Digitally Remastered)
+  artist: Ahmad Jamal
+  year: 2000
+  cover: 33367982.jpg
+- id: 3699163
+  title: Ahmad's Blues
+  artist: Ahmad Jamal
+  year: 1958
+  cover: 3699163.jpg
+- id: 317688857
+  title: Aja
+  artist: Steely Dan
+  year: 1977
+  cover: 317688857.jpg
+- id: 236020233
+  title: Ali
+  artist: "Vieux Farka Tour\xE9"
+  year: 2022
+  cover: 236020233.jpg
+- id: 1705036
+  title: All Kinds Of Weather
   artist: Red Garland
-  year: 1957
-  file: garland_red-red-garland's-piano.jpg
-
-- title: Getz/Gilberto (Getz Gilbert)
-  artist: Stan Getz & João Gilberto
+  year: 1958
+  cover: 1705036.jpg
+- id: 77609729
+  title: A Love Supreme
+  artist: John Coltrane
+  year: 1965
+  cover: 77609729.jpg
+- id: 201312894
+  title: 'A Love Supreme: Live In Seattle'
+  artist: John Coltrane
+  year: 2021
+  cover: 201312894.jpg
+- id: 4977303
+  title: Amoroso
+  artist: "Jo\xE3o Gilberto"
+  year: 1977
+  cover: 4977303.jpg
+- id: 77683225
+  title: A New Perspective
+  artist: Donald Byrd
   year: 1964
-  file: getz_stan-getz-gilbert.jpg
-
-- title: A Swingin' Affair
+  cover: 77683225.jpg
+- id: 77615638
+  title: A Night At Birdland (Volume 1/Live)
+  artist: Art Blakey
+  year: 1954
+  cover: 77615638.jpg
+- id: 77552487
+  title: A Night At Birdland (Volume 2/Live)
+  artist: Art Blakey
+  year: 1954
+  cover: 77552487.jpg
+- id: 2454381
+  title: A Night At The Village Vanguard (Live)
+  artist: Sonny Rollins
+  year: 1958
+  cover: 2454381.jpg
+- id: 77682131
+  title: A Night In Tunisia
+  artist: Art Blakey
+  year: 1961
+  cover: 77682131.jpg
+- id: 55391439
+  title: Animals
+  artist: Pink Floyd
+  year: 1977
+  cover: 55391439.jpg
+- id: 200414082
+  title: An Insatiable High
+  artist: Masayoshi Takanaka
+  year: 2005
+  cover: 200414082.jpg
+- id: 1341153
+  title: Another Workout
+  artist: Hank Mobley
+  year: 1961
+  cover: 1341153.jpg
+- id: 97450871
+  title: Are You Experienced
+  artist: Jimi Hendrix
+  year: 1967
+  cover: 97450871.jpg
+- id: 227912406
+  title: Art Blakey's Jazz Messengers (with Thelonious Monk)
+  artist: Art Blakey
+  year: 1958
+  cover: 227912406.jpg
+- id: 77645940
+  title: Art Blakey & The Jazz Messengers
+  artist: Art Blakey
+  year: 1961
+  cover: 77645940.jpg
+- id: 55391654
+  title: A Saucerful of Secrets
+  artist: Pink Floyd
+  year: 1968
+  cover: 55391654.jpg
+- id: 89759281
+  title: "Ascenseur pour l'\xE9chafaud"
+  artist: Miles Davis
+  year: 1958
+  cover: 89759281.jpg
+- id: 77825028
+  title: Ascension
+  artist: John Coltrane
+  year: 1966
+  cover: 77825028.jpg
+- id: 77583674
+  title: A Swingin' Affair (Remastered 2015)
   artist: Dexter Gordon
   year: 1962
-  file: gordon_dexter-a-swingin-affair.jpg
-
-- title: Dexter Calling...
+  cover: 77583674.jpg
+- id: 1785807
+  title: At Carnegie Hall
+  artist: Dave Brubeck
+  year: 1963
+  cover: 1785807.jpg
+- id: 1336399
+  title: At Carnegie Hall
+  artist: Thelonious Monk
+  year: 2005
+  cover: 1336399.jpg
+- id: 45115486
+  title: Atlantis
+  artist: Sun Ra
+  year: 1969
+  cover: 45115486.jpg
+- id: 55391422
+  title: Atom Heart Mother
+  artist: Pink Floyd
+  year: 1970
+  cover: 55391422.jpg
+- id: 75169192
+  title: At The Blackhawk (Live)
+  artist: Ahmad Jamal
+  year: 1961
+  cover: 75169192.jpg
+- id: 95845318
+  title: 'At The Top: Poinciana Revisited (Live At The Village Gate / 1968)'
+  artist: Ahmad Jamal
+  year: 1969
+  cover: 95845318.jpg
+- id: 4016087
+  title: Attica Blues
+  artist: Archie Shepp
+  year: 1972
+  cover: 4016087.jpg
+- id: 97451627
+  title: 'Axis: Bold As Love'
+  artist: Jimi Hendrix
+  year: 1967
+  cover: 97451627.jpg
+- id: 1413609
+  title: Back To The Tracks
+  artist: Tina Brooks
+  year: 1985
+  cover: 1413609.jpg
+- id: 68685492
+  title: Bags & Trane
+  artist: Milt Jackson
+  year: 2000
+  cover: 68685492.jpg
+- id: 77660223
+  title: Bahia
+  artist: John Coltrane
+  year: 1958
+  cover: 77660223.jpg
+- id: 77576244
+  title: Ballads
+  artist: John Coltrane
+  year: 1963
+  cover: 77576244.jpg
+- id: 410123226
+  title: Balloonerism
+  artist: Mac Miller
+  year: 2025
+  cover: 410123226.jpg
+- id: 540800
+  title: Baltimore
+  artist: Nina Simone
+  year: 1978
+  cover: 540800.jpg
+- id: 3254327
+  title: Band Of Gypsys (50th Anniversary / Live)
+  artist: Jimi Hendrix
+  year: 1970
+  cover: 3254327.jpg
+- id: 1575353
+  title: Basra (Remastered)
+  artist: Pete La Roca
+  year: 1965
+  cover: 1575353.jpg
+- id: 93231289
+  title: Big Band Bossa Nova
+  artist: Stan Getz
+  year: 1962
+  cover: 93231289.jpg
+- id: 122089881
+  title: Billie Holiday
+  artist: Billie Holiday
+  year: 2009
+  cover: 122089881.jpg
+- id: 192400319
+  title: Bird And Diz (Remastered)
+  artist: Charlie Parker
+  year: 2021
+  cover: 192400319.jpg
+- id: 57339947
+  title: Birth Of The Cool
+  artist: Miles Davis
+  year: 1957
+  cover: 57339947.jpg
+- id: 1286678
+  title: Bitches Brew
+  artist: Miles Davis
+  year: 1970
+  cover: 1286678.jpg
+- id: 79172378
+  title: Black Byrd
+  artist: Donald Byrd
+  year: 1973
+  cover: 79172378.jpg
+- id: 302947802
+  title: Black Classical Music
+  artist: Yussef Dayes
+  year: 2023
+  cover: 302947802.jpg
+- id: 77614807
+  title: Black Fire
+  artist: Andrew Hill
+  year: 1963
+  cover: 77614807.jpg
+- id: 1865655
+  title: Black Market
+  artist: Weather Report
+  year: 1976
+  cover: 1865655.jpg
+- id: 70941152
+  title: Black Sabbath (2009 Remastered Version)
+  artist: Black Sabbath
+  year: 1970
+  cover: 70941152.jpg
+- id: 1577671
+  title: Blacks And Blues
+  artist: Bobbi Humphrey
+  year: 1974
+  cover: 1577671.jpg
+- id: 35655353
+  title: Black Unity
+  artist: Pharoah Sanders
+  year: 1971
+  cover: 35655353.jpg
+- id: 77668792
+  title: Blows The Blues
+  artist: Sonny Stitt
+  year: 1960
+  cover: 77668792.jpg
+- id: 77641992
+  title: Blue & Sentimental
+  artist: Ike Quebec
+  year: 1962
+  cover: 77641992.jpg
+- id: 398333597
+  title: Blue's Moods (Remastered 2024)
+  artist: Blue Mitchell
+  year: 1960
+  cover: 398333597.jpg
+- id: 1629936
+  title: Blue Soul [Keepnews Collection]
+  artist: Blue Mitchell
+  year: 1959
+  cover: 1629936.jpg
+- id: 77635247
+  title: Blue Spirits
+  artist: Freddie Hubbard
+  year: 1966
+  cover: 77635247.jpg
+- id: 285039
+  title: Blues & Roots
+  artist: Charles Mingus
+  year: 1960
+  cover: 285039.jpg
+- id: 11182309
+  title: Blues Walk
+  artist: Lou Donaldson
+  year: 1958
+  cover: 11182309.jpg
+- id: 91411726
+  title: Blue Train
+  artist: John Coltrane
+  year: 1958
+  cover: 91411726.jpg
+- id: 3254427
+  title: 'Blue Wild Angel: Jimi Hendrix At The Isle Of Wight'
+  artist: Jimi Hendrix
+  year: 2002
+  cover: 3254427.jpg
+- id: 468232367
+  title: Boppin' With The Chet Baker Quintet
+  artist: Chet Baker Quintet
+  year: 1967
+  cover: 468232367.jpg
+- id: 250019473
+  title: Bordeaux Concert (Live)
+  artist: Keith Jarrett
+  year: 2022
+  cover: 250019473.jpg
+- id: 120567738
+  title: Born To Be Blue
+  artist: Grant Green
+  year: 1962
+  cover: 120567738.jpg
+- id: 416688743
+  title: Bossa Nova Soul Samba
+  artist: Ike Quebec
+  year: 1962
+  cover: 416688743.jpg
+- id: 1389352
+  title: Boss Horn (Remastered 2003/Rudy Van Gelder Edition)
+  artist: Blue Mitchell
+  year: 1966
+  cover: 1389352.jpg
+- id: 186523599
+  title: 'Both Directions At Once: The Lost Album'
+  artist: John Coltrane
+  year: 2018
+  cover: 186523599.jpg
+- id: 200429972
+  title: Brasilian Skies
+  artist: Masayoshi Takanaka
+  year: 2005
+  cover: 200429972.jpg
+- id: 2068183
+  title: Brazilian Byrd
+  artist: Charlie Byrd
+  year: 1965
+  cover: 2068183.jpg
+- id: 73867241
+  title: Breeze From The East
+  artist: Cal Tjader
+  year: 1964
+  cover: 73867241.jpg
+- id: 101445399
+  title: Brilliant Corners
+  artist: Thelonious Monk
+  year: 1957
+  cover: 101445399.jpg
+- id: 96586922
+  title: Bring It Home To Me
+  artist: Blue Mitchell
+  year: 1966
+  cover: 96586922.jpg
+- id: 286132596
+  title: Brubeck In Amsterdam
+  artist: Dave Brubeck
+  year: 1969
+  cover: 286132596.jpg
+- id: 193300949
+  title: Buena Vista Social Club (25th Anniversary Edition)
+  artist: Buena Vista Social Club
+  year: 1997
+  cover: 193300949.jpg
+- id: 110958653
+  title: Buena Vista Social Club at Carnegie Hall (Live)
+  artist: Buena Vista Social Club
+  year: 2008
+  cover: 110958653.jpg
+- id: 77635845
+  title: Byrd In Flight (Remastered 2015)
+  artist: Donald Byrd
+  year: 1960
+  cover: 77635845.jpg
+- id: 351901526
+  title: CALIFORNIA SHOWER
+  artist: Sadao Watanabe
+  year: 1978
+  cover: 351901526.jpg
+- id: 205674643
+  title: "Can\xE7\xE3o do Amor Demais"
+  artist: Elizeth Cardoso
+  year: 1999
+  cover: 205674643.jpg
+- id: 99351699
+  title: Cannonball Adderley Quintet In Chicago
+  artist: Cannonball Adderley
+  year: 1959
+  cover: 99351699.jpg
+- id: 1382932
+  title: Cannonball's Bossa Nova
+  artist: Cannonball Adderley
+  year: 1963
+  cover: 1382932.jpg
+- id: 132954907
+  title: Caravan
+  artist: Art Blakey
+  year: 1962
+  cover: 132954907.jpg
+- id: 157658550
+  title: CASIOPEA
+  artist: Casiopea
+  year: 1979
+  cover: 157658550.jpg
+- id: 186511123
+  title: Chant
+  artist: Donald Byrd
+  year: 1979
+  cover: 186511123.jpg
+- id: 93429426
+  title: 'Charlie Parker With Strings: Complete Master Takes'
+  artist: Charlie Parker
+  year: 1995
+  cover: 93429426.jpg
+- id: 195758171
+  title: Chega de Saudade (Remastered Edition)
+  artist: "Jo\xE3o Gilberto"
+  year: 1959
+  cover: 195758171.jpg
+- id: 175014889
+  title: Chet
+  artist: Chet Baker
+  year: 1959
+  cover: 175014889.jpg
+- id: 221164356
+  title: Chet Baker In Tokyo (The Complete Concert)
+  artist: Chet Baker
+  year: 2014
+  cover: 221164356.jpg
+- id: 158152
+  title: Chet Baker Sings
+  artist: Chet Baker
+  year: 1955
+  cover: 158152.jpg
+- id: 175016935
+  title: 'Chet Baker Sings: It Could Happen To You'
+  artist: Chet Baker
+  year: 1955
+  cover: 175016935.jpg
+- id: 77648223
+  title: Coltrane
+  artist: John Coltrane
+  year: 1957
+  cover: 77648223.jpg
+- id: 77650754
+  title: Coltrane
+  artist: John Coltrane
+  year: 1962
+  cover: 77650754.jpg
+- id: 219046
+  title: Coltrane Plays the Blues
+  artist: John Coltrane
+  year: 1962
+  cover: 219046.jpg
+- id: 77736080
+  title: Coltrane (Rudy Van Gelder Remaster)
+  artist: John Coltrane
+  year: 1957
+  cover: 77736080.jpg
+- id: 285185
+  title: Coltrane's Sound
+  artist: John Coltrane
+  year: 1964
+  cover: 285185.jpg
+- id: 77616158
+  title: Complete Communion
+  artist: Don Cherry
+  year: 1965
+  cover: 77616158.jpg
+- id: 14562478
+  title: Concert In Japan
+  artist: John Coltrane
+  year: 2011
+  cover: 14562478.jpg
+- id: 188978614
+  title: Concert In Japan (Live In Japan / 1966 / Deluxe Edition)
+  artist: John Coltrane
+  year: 2011
+  cover: 188978614.jpg
+- id: 106821811
+  title: Contours
+  artist: Sam Rivers
+  year: 1967
+  cover: 106821811.jpg
+- id: 1192427
+  title: Conversations With Myself
+  artist: Bill Evans
+  year: 1963
+  cover: 1192427.jpg
+- id: 77648514
+  title: Cookin' With The Miles Davis Quintet
+  artist: Miles Davis
+  year: 1957
+  cover: 77648514.jpg
+- id: 468232377
+  title: Cool Burnin' With The Chet Baker Quintet
+  artist: Chet Baker Quintet
+  year: 1967
+  cover: 468232377.jpg
+- id: 77686234
+  title: Cornbread
+  artist: Lee Morgan
+  year: 1965
+  cover: 77686234.jpg
+- id: 14562451
+  title: Cosmic Music
+  artist: John Coltrane
+  year: 1968
+  cover: 14562451.jpg
+- id: 145068531
+  title: Cosmos
+  artist: Yuji Ohno
+  year: 2016
+  cover: 145068531.jpg
+- id: 236739558
+  title: Could We Be More
+  artist: Kokoroko
+  year: 2022
+  cover: 236739558.jpg
+- id: 77653738
+  title: Crescent
+  artist: John Coltrane
+  year: 1964
+  cover: 77653738.jpg
+- id: 72359505
+  title: Criss-Cross
+  artist: Thelonious Monk
+  year: 1963
+  cover: 72359505.jpg
+- id: 3871343
+  title: Crystals
+  artist: Sam Rivers
+  year: 1974
+  cover: 3871343.jpg
+- id: 77646143
+  title: Crystal Silence
+  artist: Gary Burton
+  year: 1972
+  cover: 77646143.jpg
+- id: 160873231
+  title: Dalla (Legacy Edition)
+  artist: Lucio Dalla
+  year: 1980
+  cover: 160873231.jpg
+- id: 1341174
+  title: Demon's Dance (Remastered 2006/Rudy Van Gelder Edition)
+  artist: Jackie McLean
+  year: 1970
+  cover: 1341174.jpg
+- id: 77633917
+  title: Destination...Out!
+  artist: Jackie McLean
+  year: 1963
+  cover: 77633917.jpg
+- id: 1393981
+  title: Dexter Calling (Remastered / Rudy Van Gelder Edition)
   artist: Dexter Gordon
   year: 1961
-  file: gordon_dexter-dexter-calling.jpg
-
-- title: Gettin' Around
-  artist: Dexter Gordon
+  cover: 1393981.jpg
+- id: 282816
+  title: Digital Works
+  artist: Ahmad Jamal
+  year: 1985
+  cover: 282816.jpg
+- id: 90457031
+  title: Dig This
+  artist: Bobbi Humphrey
+  year: 1972
+  cover: 90457031.jpg
+- id: 1336983
+  title: Dippin'
+  artist: Hank Mobley
   year: 1965
-  file: gordon_dexter-gettin-around.jpg
-
-- title: Go!
-  artist: Dexter Gordon
-  year: 1962
-  file: gordon_dexter-go-gordon.jpg
-
-- title: One Flight Up
-  artist: Dexter Gordon
-  year: 1964
-  file: gordon_dexter-one-flight-up.jpg
-
-- title: Our Man in Paris
-  artist: Dexter Gordon
+  cover: 1336983.jpg
+- id: 346484617
+  title: Don't Forget to Have Fun
+  artist: Don Glori
+  year: 2024
+  cover: 346484617.jpg
+- id: 91585387
+  title: Droppin' Science
+  artist: Various Artists
+  year: 2008
+  cover: 91585387.jpg
+- id: 77598240
+  title: Duke Ellington & John Coltrane
+  artist: Duke Ellington
   year: 1963
-  file: gordon_dexter-our-man-in-paris.jpg
-
-- title:
-  artist:
-  year:
-  file: gordon_dexter-swinginf-affair.rgb.jpg
-
-- title: Green Caterpillar
-  artist:
-  year:
-  file: green-caterpillar.jpg
-
-- title: Born to Be Blue
-  artist: Grant Green
-  year: 1962
-  file: green_grant-born-to-be-blue.jpg
-
-- title: Idle Moments
-  artist: Grant Green
-  year: 1965
-  file: green_grant-idle-moments.jpg
-
-- title: Empyrean Isles
-  artist: Herbie Hancock
-  year: 1964
-  file: hancock_herbie-empyrean-isles.jpg
-
-- title: Head Hunters
-  artist: Herbie Hancock
-  year: 1973
-  file: hancock_herbie-head-hunter.jpg
-
-- title: Inventions and Dimensions
-  artist: Herbie Hancock
-  year: 1964
-  file: hancock_herbie-inventions-and-dimension.jpg
-
-- title: Maiden Voyage
-  artist: Herbie Hancock
-  year: 1965
-  file: hancock_herbie-maiden-voyage.jpg
-
-- title: My Point of View
-  artist: Herbie Hancock
-  year: 1963
-  file: hancock_herbie-my-point-of-view.jpg
-
-- title: Sextant
-  artist: Herbie Hancock
-  year:
-  file: hancock_herbie-sextant.jpg
-
-- title: Takin' Off
-  artist: Herbie Hancock
-  year: 1962
-  file: hancock_herbie-takin-off.jpg
-
-- title: Inner Urge
-  artist: Joe Henderson
-  year: 1964
-  file: henderson_joe-inner-urge.jpg
-
-- title: Mode for Joe
-  artist: Joe Henderson
-  year: 1966
-  file: henderson_joe-mode-for-joe.jpg
-
-- title: Page One
-  artist: Joe Henderson
-  year: 1963
-  file: henderson_joe-page-one.jpg
-
-- title: Hi-Nology
-  artist: Terumasa Hino
-  year:
-  file: hino_terumasa-hi-nology.jpg
-
-- title: Blue Spirits
-  artist: Freddie Hubbard
-  year: 1967
-  file: hubbard_freddie-blue-spirtis.jpg
-
-- title: Here to Stay
-  artist: Freddie Hubbard
-  year: 1962
-  file: hubbard_freddie-here-to-stay.jpg
-
-- title: Hub-Tones
-  artist: Freddie Hubbard
-  year: 1962
-  file: hubbard_freddie-hub-tones.jpg
-
-- title: Open Sesame
-  artist: Freddie Hubbard
-  year:
-  file: hubbard_freddie-open-sesame.jpg
-
-- title: Ready for Freddie
-  artist: Freddie Hubbard
-  year: 1962
-  file: hubbard_freddie-ready-for-freddie.jpg
-
-- title: Red Clay
-  artist: Freddie Hubbard
+  cover: 77598240.jpg
+- id: 342045793
+  title: Eastern Sounds (Remastered 2023)
+  artist: Yusef Lateef
+  year: 1961
+  cover: 342045793.jpg
+- id: 559120
+  title: East Meets West
+  artist: Ahmed Abdul-Malik
+  year: 1959
+  cover: 559120.jpg
+- id: 1409813
+  title: Electric Byrd
+  artist: Donald Byrd
   year: 1970
-  file: hubbard_freddie-red-clay.jpg
-
-- title:
-  artist:
-  year:
-  file: humphrey_bobbi-black-and-blues.jpg
-
-- title:
-  artist:
-  year:
-  file: humphrey_bobbi-fancy-dancer.jpg
-
-- title:
-  artist:
-  year:
-  file: inagaki_jiro-funky-stuf.jpg
-
-- title:
-  artist:
-  year:
-  file: inagaki_jiro-head-rock.jpg
-
-- title:
-  artist:
-  year:
-  file: inagaki_jiro-in-the-groove.jpg
-
-- title:
-  artist:
-  year:
-  file: jackson_milt-milt-jackson.jpg
-
-- title:
-  artist:
-  year:
-  file: jamal_ahmad-ahamads-blues.jpg
-
-- title:
-  artist:
-  year:
-  file: jamal_ahmad-at-the-blackhawk.jpg
-
-- title:
-  artist:
-  year:
-  file: jamal_ahmad-but-not-for-me.jpg
-
-- title:
-  artist:
-  year:
-  file: jamal_ahmad-jamal-at-the-penthouse.jpg
-
-- title:
-  artist:
-  year:
-  file: jamal_ahmad-jamal-live-in-paris.jpg
-
-- title:
-  artist:
-  year:
-  file: jamal_ahmad-jamal-live-montreal-1985.jpg
-
-- title:
-  artist:
-  year:
-  file: jamal_ahmad-outertimeinnerspace.jpg
-
-- title:
-  artist:
-  year:
-  file: jamal_ahmad-poinciana.jpg
-
-- title:
-  artist:
-  year:
-  file: jamal_ahmad-the-ahmad-jamal-trio.jpg
-
-- title:
-  artist:
-  year:
-  file: jamal_ahmad-the-awakening.jpg
-
-- title:
-  artist:
-  year:
-  file: jamal_khan-infinity-jamal.jpg
-
-- title:
-  artist:
-  year:
-  file: jarret_keith-koln-conceer.jpg
-
-- title:
-  artist:
-  year:
-  file: jazz.indd
-
-- title:
-  artist:
-  year:
-  file: jazz.pdf
-
-- title: Composer of "Desafinado"
-  artist: Antônio Carlos Jobim
-  year: 1963
-  file: jobim_carlos-composer-of-desafinado.jpg
-
-- title: Black Focus
-  artist: Yussef Kamaal
+  cover: 1409813.jpg
+- id: 97449252
+  title: Electric Ladyland
+  artist: Jimi Hendrix
+  year: 1968
+  cover: 97449252.jpg
+- id: 35731422
+  title: Elevation (Live)
+  artist: Pharoah Sanders
+  year: 1974
+  cover: 35731422.jpg
+- id: 96341218
+  title: Elis & Tom
+  artist: Elis Regina
+  year: 1974
+  cover: 96341218.jpg
+- id: 211824393
+  title: 'Ellington At Newport: The Original Album'
+  artist: Duke Ellington
+  year: 1956
+  cover: 211824393.jpg
+- id: 77556213
+  title: Empathy
+  artist: Bill Evans
+  year: 1962
+  cover: 77556213.jpg
+- id: 77610515
+  title: Empyrean Isles
+  artist: Herbie Hancock
+  year: 1964
+  cover: 77610515.jpg
+- id: 303656220
+  title: 'Evenings At The Village Gate: John Coltrane with Eric Dolphy (Live)'
+  artist: John Coltrane
+  year: 2023
+  cover: 303656220.jpg
+- id: 587501
+  title: Everybody Digs Bill Evans
+  artist: Bill Evans
+  year: 1959
+  cover: 587501.jpg
+- id: 54337455
+  title: Everything's Beautiful
+  artist: Miles Davis
   year: 2016
-  file: kamaal_yussef-black-focus.jpg
-
-- title:
-  artist:
-  year:
-  file: kikuchi_masabumi-poo-sun.jpg
-
-- title: Kokoroko
-  artist: Kokoroko
-  year: 2019
-  file: kokoroko-kokoroko.jpg
-
-- title: Tuff Time Never Lasts
-  artist: Kokoroko
-  year:
-  file: kokoroko-tuff-time-never-lasts.jpg
-
-- title: Expensive Shit
+  cover: 54337455.jpg
+- id: 84211786
+  title: Everything You See Is Me
+  artist: Rasa
+  year: 2018
+  cover: 84211786.jpg
+- id: 2874070
+  title: Evolution (Remastered)
+  artist: Grachan Moncur III
+  year: 1963
+  cover: 2874070.jpg
+- id: 77821373
+  title: Expansions
+  artist: McCoy Tyner
+  year: 1968
+  cover: 77821373.jpg
+- id: 23463255
+  title: Expensive Shit
   artist: Fela Kuti
   year: 1975
-  file: kuti_fela-expensive-shit.jpg
-
-- title: Sorrow, Tears and Blood
-  artist: Fela Kuti
-  year: 1977
-  file: kuti_fela-sorrow-tears-blood.jpg
-
-- title: Zombie
-  artist: Fela Kuti
-  year: 1977
-  file: kuti_fela-zombie-kuti.jpg
-
-- title:
-  artist:
-  year:
-  file: la-roca_pete-basra.jpg
-
-- title: Centaur and the Phoenix
-  artist: Yusef Lateef
-  year: 1960
-  file: lateef_yusef-centaur-and-the-phoenix.jpg
-
-- title: Eastern Sounds
-  artist: Yusef Lateef
+  cover: 23463255.jpg
+- id: 6973568
+  title: Explorations [Original Jazz Classics Remasters]
+  artist: Bill Evans
   year: 1961
-  file: lateef_yusef-eastern-sounds.jpg
-
-- title: Jazz Mood
+  cover: 6973568.jpg
+- id: 14562525
+  title: Expression
+  artist: John Coltrane
+  year: 1967
+  cover: 14562525.jpg
+- id: 77623742
+  title: Facing You
+  artist: Keith Jarrett
+  year: 1971
+  cover: 77623742.jpg
+- id: 2883286
+  title: Fancy Dancer (Reissue)
+  artist: Bobbi Humphrey
+  year: 1975
+  cover: 2883286.jpg
+- id: 31971731
+  title: Fatha
+  artist: Earl Hines
+  year: 2014
+  cover: 31971731.jpg
+- id: 47093629
+  title: Fatha & His Flock on Tour
+  artist: Earl Hines
+  year: 2015
+  cover: 47093629.jpg
+- id: 403472711
+  title: Fela's London Scene
+  artist: Fela Kuti
+  year: 1971
+  cover: 403472711.jpg
+- id: 101330213
+  title: First Light (2018 Remaster)
+  artist: Makoto Matsushita
+  year: 1981
+  cover: 101330213.jpg
+- id: 25688798
+  title: Flood (Live in Tokyo - 1975)
+  artist: Herbie Hancock
+  year: 1975
+  cover: 25688798.jpg
+- id: 389704246
+  title: FLYING BEAGLE
+  artist: Himiko Kikuchi
+  year: 1987
+  cover: 389704246.jpg
+- id: 93788063
+  title: Focus
+  artist: Stan Getz
+  year: 1961
+  cover: 93788063.jpg
+- id: 290583162
+  title: For Those Who Chant
+  artist: Luis Gasca
+  year: 1972
+  cover: 290583162.jpg
+- id: 562212
+  title: '"Four" & More (2022 Remaster)'
+  artist: Miles Davis
+  year: 1966
+  cover: 562212.jpg
+- id: 122102048
+  title: Free At Last (Extended Edition)
+  artist: Mal Waldron Trio
+  year: 1969
+  cover: 122102048.jpg
+- id: 79176369
+  title: Free For All
+  artist: Art Blakey
+  year: 1964
+  cover: 79176369.jpg
+- id: 285061
+  title: Free Jazz
+  artist: Ornette Coleman
+  year: 1961
+  cover: 285061.jpg
+- id: 85
+  title: Friday Night in San Francisco
+  artist: Al Di Meola
+  year: 1981
+  cover: 85.jpg
+- id: 77642029
+  title: Fuchsia Swing Song
+  artist: Sam Rivers
+  year: 1964
+  cover: 77642029.jpg
+- id: 3258791
+  title: Genius Of Modern Music (Vol.1, Expanded Edition)
+  artist: Thelonious Monk
+  year: 1952
+  cover: 3258791.jpg
+- id: 77698484
+  title: Genius Of Modern Music (Vol. 2)
+  artist: Thelonious Monk
+  year: 1952
+  cover: 77698484.jpg
+- id: 77661216
+  title: Gettin' Around (Remastered 2015)
+  artist: Dexter Gordon
+  year: 1965
+  cover: 77661216.jpg
+- id: 77632399
+  title: 'Getz/Gilberto #2'
+  artist: "Jo\xE3o Gilberto"
+  year: 1964
+  cover: 77632399.jpg
+- id: 121091853
+  title: Getz/Gilberto (Expanded Edition)
+  artist: "Jo\xE3o Gilberto"
+  year: 1964
+  cover: 121091853.jpg
+- id: 68690030
+  title: Giant Steps (Mono)
+  artist: John Coltrane
+  year: 1960
+  cover: 68690030.jpg
+- id: 77698497
+  title: Go
+  artist: Dexter Gordon
+  year: 1962
+  cover: 77698497.jpg
+- id: 77708292
+  title: Groovy (Rudy Van Gelder Remaster)
+  artist: Red Garland
+  year: 2011
+  cover: 77708292.jpg
+- id: 21160376
+  title: Guantanamera - The Essential Album
+  artist: Compay Segundo
+  year: 2013
+  cover: 21160376.jpg
+- id: 4859171
+  title: Hamp & Getz
+  artist: Lionel Hampton
+  year: 1955
+  cover: 4859171.jpg
+- id: 113134410
+  title: Hank Mobley
+  artist: Hank Mobley
+  year: 1957
+  cover: 113134410.jpg
+- id: 77594800
+  title: Hank Mobley Quartet
+  artist: Hank Mobley Quartet
+  year: 1955
+  cover: 77594800.jpg
+- id: 90809912
+  title: Happy Frame Of Mind
+  artist: Horace Parlan
+  year: 1963
+  cover: 90809912.jpg
+- id: 75169120
+  title: Happy Moods
+  artist: Ahmad Jamal
+  year: 1960
+  cover: 75169120.jpg
+- id: 78817953
+  title: Harmony of Difference
+  artist: Kamasi Washington
+  year: 2017
+  cover: 78817953.jpg
+- id: 640348
+  title: Head Hunters
+  artist: Herbie Hancock
+  year: 1973
+  cover: 640348.jpg
+- id: 137108117
+  title: Hear, Sense and Feel
+  artist: The Awakening
+  year: 1972
+  cover: 137108117.jpg
+- id: 7604967
+  title: Hendrix In The West
+  artist: Jimi Hendrix
+  year: 1972
+  cover: 7604967.jpg
+- id: 113134020
+  title: Herbie Nichols Trio
+  artist: Herbie Nichols Trio
+  year: 1956
+  cover: 113134020.jpg
+- id: 19882464
+  title: Here Comes The Sun (Expanded Edition)
+  artist: Nina Simone
+  year: 1971
+  cover: 19882464.jpg
+- id: 1341159
+  title: Here To Stay
+  artist: Freddie Hubbard
+  year: 1962
+  cover: 1341159.jpg
+- id: 77610450
+  title: High Priestess Of Soul
+  artist: Nina Simone
+  year: 1967
+  cover: 77610450.jpg
+- id: 1403135
+  title: Horace Silver And The Jazz Messengers
+  artist: Horace Silver
+  year: 1955
+  cover: 1403135.jpg
+- id: 68691345
+  title: Houses of the Holy (Remaster)
+  artist: Led Zeppelin
+  year: 1973
+  cover: 68691345.jpg
+- id: 77611118
+  title: Hub-Tones
+  artist: Freddie Hubbard
+  year: 1962
+  cover: 77611118.jpg
+- id: 1381759
+  title: Idle Moments
+  artist: Grant Green
+  year: 1965
+  cover: 1381759.jpg
+- id: 77650798
+  title: Impressions
+  artist: John Coltrane
+  year: 1963
+  cover: 77650798.jpg
+- id: 3284750
+  title: In A Silent Way
+  artist: Miles Davis
+  year: 1969
+  cover: 3284750.jpg
+- id: 77686385
+  title: Inception
+  artist: McCoy Tyner
+  year: 1962
+  cover: 77686385.jpg
+- id: 2902875
+  title: Indestructible
+  artist: Art Blakey
+  year: 1966
+  cover: 2902875.jpg
+- id: 194209405
+  title: Infinity
+  artist: Khan Jamal
+  year: 1984
+  cover: 194209405.jpg
+- id: 156356
+  title: Inner Urge (The Rudy Van Gelder Edition)
+  artist: Joe Henderson
+  year: 1964
+  cover: 156356.jpg
+- id: 1629889
+  title: In New York [Keepnews Collection]
+  artist: Cannonball Adderley
+  year: 1962
+  cover: 1629889.jpg
+- id: 156928
+  title: In 'n Out (The Rudy Van Gelder Edition)
+  artist: Joe Henderson
+  year: 1965
+  cover: 156928.jpg
+- id: 333602953
+  title: In The Court Of The Crimson King (Expanded & Remastered Original Album Mix)
+  artist: King Crimson
+  year: 1969
+  cover: 333602953.jpg
+- id: 333602996
+  title: In The Wake Of Poseidon
+  artist: King Crimson
+  year: 1970
+  cover: 333602996.jpg
+- id: 1407621
+  title: Into Somethin'
+  artist: Larry Young
+  year: 1964
+  cover: 1407621.jpg
+- id: 77686473
+  title: Inventions And Dimensions
+  artist: Herbie Hancock
+  year: 1964
+  cover: 77686473.jpg
+- id: 108022741
+  title: I Put A Spell On You
+  artist: Nina Simone
+  year: 1965
+  cover: 108022741.jpg
+- id: 26767858
+  title: Isle of Wight (Live)
+  artist: Miles Davis
+  year: 1970
+  cover: 26767858.jpg
+- id: 1343385
+  title: It Might As Well Be Spring
+  artist: Ike Quebec
+  year: 1961
+  cover: 1343385.jpg
+- id: 2044532
+  title: It's Monk's Time
+  artist: Thelonious Monk
+  year: 1964
+  cover: 2044532.jpg
+- id: 1532227
+  title: It's Time
+  artist: Jackie McLean
+  year: 1964
+  cover: 1532227.jpg
+- id: 406198176
+  title: Izipho Zam (My Gifts)
+  artist: Pharoah Sanders
+  year: 2025
+  cover: 406198176.jpg
+- id: 1352933
+  title: Jackie's Bag
+  artist: Jackie McLean
+  year: 1960
+  cover: 1352933.jpg
+- id: 1371554
+  title: Jacknife (2002 Remastered)
+  artist: Jackie McLean
+  year: 1966
+  cover: 1371554.jpg
+- id: 75191775
+  title: Jaco Pastorius
+  artist: Jaco Pastorius
+  year: 1976
+  cover: 75191775.jpg
+- id: 75168989
+  title: Jamal At The Penthouse
+  artist: Ahmad Jamal
+  year: 1959
+  cover: 75168989.jpg
+- id: 99999883
+  title: Jazz At The Philharmonic (Expanded Edition)
+  artist: Billie Holiday
+  year: 1994
+  cover: 99999883.jpg
+- id: 1787787
+  title: Jazz At The Plaza
+  artist: Miles Davis
+  year: 1974
+  cover: 1787787.jpg
+- id: 101737656
+  title: Jazz in Silhouette
+  artist: Sun Ra
+  year: 1959
+  cover: 101737656.jpg
+- id: 397492233
+  title: jazz is for ordinary people
+  artist: berlioz
+  year: 2023
+  cover: 397492233.jpg
+- id: 1334790
+  title: Jazzmatazz Volume 1
+  artist: Guru
+  year: 1993
+  cover: 1334790.jpg
+- id: 165496289
+  title: Jazz Moods (Remastered)
   artist: Yusef Lateef
   year: 1957
-  file: lateef_yusef-jazz-mood.jpg
-
-- title:
-  artist:
-  year:
-  file: lateef_yusef-live-at-peps.jpg
-
-- title:
-  artist:
-  year:
-  file: lateef_yusef-lost-in-sound.jpg
-
-- title:
-  artist:
-  year:
-  file: lateef_yusef-other-sounds.jpg
-
-- title:
-  artist:
-  year:
-  file: lateef_yusef-psychicemotus.jpg
-
-- title: The Blue Yusef Lateef
-  artist: Yusef Lateef
-  year: 1968
-  file: lateef_yusef-the-blue-yusef-lateef.jpg
-
-- title: The Golden Flute
-  artist: Yusef Lateef
-  year: 1966
-  file: lateef_yusef-the-golden-flute.jpg
-
-- title:
-  artist:
-  year:
-  file: mankuku-yakhal-inkomo.jpg
-
-- title: Destination Out
-  artist: Jackie McLean
-  year: 1968
-  file: mclean-jackie-destination-out.jpg
-
-- title: It's Time
-  artist: Jackie McLean
-  year:
-  file: mclean_jackie-its-time.jpg
-
-- title: Let My Freedom Ring
-  artist: Jackie McLean
+  cover: 165496289.jpg
+- id: 33183061
+  title: Jazz Sahara
+  artist: Ahmed Abdul-Malik
+  year: 1958
+  cover: 33183061.jpg
+- id: 121091972
+  title: Jazz Samba
+  artist: Stan Getz
+  year: 1962
+  cover: 121091972.jpg
+- id: 93057706
+  title: Jazz Samba Encore!
+  artist: Stan Getz
   year: 1963
-  file: mclean_jackie-let-my-freedom-ring.jpg
-
-- title: The Black Saint and the Sinner Lady
-  artist: Charles Mingus
+  cover: 93057706.jpg
+- id: 95648630
+  title: Jazz Sounds Of Africa (Remastered)
+  artist: Ahmed Abdul-Malik
+  year: 2015
+  cover: 95648630.jpg
+- id: 35655526
+  title: Jewels Of Thought
+  artist: Pharoah Sanders
+  year: 1969
+  cover: 35655526.jpg
+- id: 169912645
+  title: John Coltrane And Johnny Hartman
+  artist: John Coltrane
   year: 1963
-  file: mingus_charles-black-saint-sinner-lady.jpg
-
-- title: Blues & Roots
-  artist: Charles Mingus
+  cover: 169912645.jpg
+- id: 35494745
+  title: Journey in Satchidananda
+  artist: Alice Coltrane
+  year: 1971
+  cover: 35494745.jpg
+- id: 77691870
+  title: Juju
+  artist: Wayne Shorter
+  year: 1965
+  cover: 77691870.jpg
+- id: 1503977
+  title: Junko Onishi Live At The Village Vanguard (Live)
+  artist: Junko Onishi
+  year: 1994
+  cover: 1503977.jpg
+- id: 293113526
+  title: Just Coolin'
+  artist: Art Blakey
+  year: 2020
+  cover: 293113526.jpg
+- id: 35654967
+  title: Karma
+  artist: Pharoah Sanders
+  year: 1969
+  cover: 35654967.jpg
+- id: 655910
+  title: Kind Of Blue
+  artist: Miles Davis
   year: 1959
-  file: mingus_charles-blues-and-roots.jpg
-
-- title: Let My Children Hear Music
+  cover: 655910.jpg
+- id: 347043509
+  title: Know What I Mean? (Remastered 2024)
+  artist: Cannonball Adderley
+  year: 1961
+  cover: 347043509.jpg
+- id: 403151150
+  title: Kogun
+  artist: Toshiko Akiyoshi
+  year: 1974
+  cover: 403151150.jpg
+- id: 179161240
+  title: KOKOROKO
+  artist: Kokoroko
+  year: 2019
+  cover: 179161240.jpg
+- id: 2350679
+  title: "Kulu S\xE9 Mama"
+  artist: John Coltrane
+  year: 1965
+  cover: 2350679.jpg
+- id: 43878941
+  title: Lady In Satin
+  artist: Billie Holiday
+  year: 1987
+  cover: 43878941.jpg
+- id: 404038757
+  title: Latin Kick (Remastered 2024)
+  artist: Cal Tjader
+  year: 1956
+  cover: 404038757.jpg
+- id: 227407714
+  title: L.A. Woman
+  artist: The Doors
+  year: 1971
+  cover: 227407714.jpg
+- id: 68699083
+  title: Led Zeppelin III (Remaster)
+  artist: Led Zeppelin
+  year: 1970
+  cover: 68699083.jpg
+- id: 68705797
+  title: Led Zeppelin II (Remaster)
+  artist: Led Zeppelin
+  year: 1969
+  cover: 68705797.jpg
+- id: 68691370
+  title: Led Zeppelin IV (Remaster)
+  artist: Led Zeppelin
+  year: 1971
+  cover: 68691370.jpg
+- id: 68705946
+  title: Led Zeppelin (Remaster)
+  artist: Led Zeppelin
+  year: 1969
+  cover: 68705946.jpg
+- id: 1371466
+  title: Lee-Way
+  artist: Lee Morgan
+  year: 1960
+  cover: 1371466.jpg
+- id: 45601814
+  title: Legalize It
+  artist: Peter Tosh
+  year: 1976
+  cover: 45601814.jpg
+- id: 93539830
+  title: Lester Young Trio
+  artist: Lester Young
+  year: 1951
+  cover: 93539830.jpg
+- id: 94441967
+  title: Lester Young With The Oscar Peterson Trio
+  artist: Lester Young
+  year: 1952
+  cover: 94441967.jpg
+- id: 77695727
+  title: Let Freedom Ring
+  artist: Jackie McLean
+  year: 1962
+  cover: 77695727.jpg
+- id: 1302625
+  title: Let My Children Hear Music
   artist: Charles Mingus
   year: 1972
-  file: mingus_charles-let-my-children-hear-music.jpg
-
-- title: Mingus Ah Um
+  cover: 1302625.jpg
+- id: 77660336
+  title: Light As A Feather
+  artist: Chick Corea
+  year: 1973
+  cover: 77660336.jpg
+- id: 185466598
+  title: Little Girl Blue (2021 - Stereo Remaster)
+  artist: Nina Simone
+  year: 1959
+  cover: 185466598.jpg
+- id: 77650860
+  title: Live At Birdland
+  artist: John Coltrane
+  year: 1963
+  cover: 77650860.jpg
+- id: 103012683
+  title: Live At Pep's
+  artist: Yusef Lateef
+  year: 1964
+  cover: 103012683.jpg
+- id: 108382376
+  title: Live At The East
+  artist: Pharoah Sanders
+  year: 1972
+  cover: 108382376.jpg
+- id: 282829
+  title: Live At The Montreal Jazz Festival 1985
+  artist: Ahmad Jamal
+  year: 1985
+  cover: 282829.jpg
+- id: 77650747
+  title: Live At The Village Vanguard
+  artist: John Coltrane
+  year: 1962
+  cover: 77650747.jpg
+- id: 77639302
+  title: Live At The Village Vanguard Again!
+  artist: John Coltrane
+  year: 1966
+  cover: 77639302.jpg
+- id: 94438564
+  title: Live At The Village Vanguard - The Master Takes
+  artist: John Coltrane
+  year: 1962
+  cover: 94438564.jpg
+- id: 3254326
+  title: Live at Woodstock
+  artist: Jimi Hendrix
+  year: 1999
+  cover: 3254326.jpg
+- id: 5004640
+  title: Live - Evil
+  artist: Miles Davis
+  year: 1971
+  cover: 5004640.jpg
+- id: 59295424
+  title: Live From The Blue Note Tokyo
+  artist: Chick Corea Akoustic Band
+  year: 2000
+  cover: 59295424.jpg
+- id: 160774060
+  title: Live In Maui
+  artist: Jimi Hendrix
+  year: 2020
+  cover: 160774060.jpg
+- id: 388392987
+  title: Live in Paris (1966)
+  artist: Thelonious Monk
+  year: 2006
+  cover: 388392987.jpg
+- id: 241060851
+  title: Live in Paris (1971)
+  artist: Ahmad Jamal
+  year: 2022
+  cover: 241060851.jpg
+- id: 188678341
+  title: Live in Paris (1974)
+  artist: Archie Shepp
+  year: 2021
+  cover: 188678341.jpg
+- id: 127615207
+  title: Live in Paris (1975)
+  artist: Pharoah Sanders
+  year: 2020
+  cover: 127615207.jpg
+- id: 333606031
+  title: Lizard
+  artist: King Crimson
+  year: 1970
+  cover: 333606031.jpg
+- id: 403151511
+  title: Long Yellow Road
+  artist: Toshiko Akiyoshi
+  year: 1975
+  cover: 403151511.jpg
+- id: 2909740
+  title: Look Out! (Remastered)
+  artist: Stanley Turrentine
+  year: 1960
+  cover: 2909740.jpg
+- id: 128574913
+  title: Lost in Sound
+  artist: Yusef Lateef
+  year: 1960
+  cover: 128574913.jpg
+- id: 687435
+  title: Lucio Dalla
+  artist: Lucio Dalla
+  year: 1979
+  cover: 687435.jpg
+- id: 330331094
+  title: "LUPIN THE THIRD JAZZ \u30FC Another \"JAZZ\""
+  artist: Yuji Ohno
+  year: 2002
+  cover: 330331094.jpg
+- id: 77685998
+  title: Maiden Voyage
+  artist: Herbie Hancock
+  year: 1966
+  cover: 77685998.jpg
+- id: 248383664
+  title: MAKE UP CITY
+  artist: Casiopea
+  year: 1998
+  cover: 248383664.jpg
+- id: 2859485
+  title: Masterpieces By Ellington (Uncut Concert Arrangements)
+  artist: Duke Ellington
+  year: 1951
+  cover: 2859485.jpg
+- id: 55391742
+  title: Meddle
+  artist: Pink Floyd
+  year: 1971
+  cover: 55391742.jpg
+- id: 2410569
+  title: Meditations
+  artist: John Coltrane
+  year: 1965
+  cover: 2410569.jpg
+- id: 158850
+  title: Mercy, Mercy, Mercy (Live)
+  artist: Cannonball Adderley
+  year: 2008
+  cover: 158850.jpg
+- id: 77698515
+  title: Midnight Blue (2012 Remaster)
+  artist: Kenny Burrell
+  year: 1963
+  cover: 77698515.jpg
+- id: 140552206
+  title: Miles
+  artist: Blu & Exile
+  year: 2020
+  cover: 140552206.jpg
+- id: 72692830
+  title: Miles Ahead (Mono Version)
+  artist: Miles Davis
+  year: 1957
+  cover: 72692830.jpg
+- id: 72692709
+  title: Miles and Monk at Newport (Mono Version) (Live)
+  artist: Miles Davis
+  year: 1964
+  cover: 72692709.jpg
+- id: 77701781
+  title: Miles Davis And The Modern Jazz Giants
+  artist: Miles Davis
+  year: 1959
+  cover: 77701781.jpg
+- id: 77701359
+  title: Miles Davis And The Modern Jazz Giants (Rudy Van Gelder Remaster)
+  artist: Miles Davis
+  year: 2008
+  cover: 77701359.jpg
+- id: 1867619
+  title: 'Miles Davis At Fillmore: Live At The Fillmore East'
+  artist: Miles Davis
+  year: 1970
+  cover: 1867619.jpg
+- id: 102467556
+  title: Miles in the Sky
+  artist: Miles Davis
+  year: 1968
+  cover: 102467556.jpg
+- id: 3002975
+  title: Miles Smiles
+  artist: Miles Davis
+  year: 1967
+  cover: 3002975.jpg
+- id: 1741406
+  title: Milestones
+  artist: Miles Davis
+  year: 1958
+  cover: 1741406.jpg
+- id: 1496997
+  title: Milt Jackson
+  artist: Milt Jackson
+  year: 1952
+  cover: 1496997.jpg
+- id: 19809577
+  title: Mingus Ah Um
   artist: Charles Mingus
   year: 1959
-  file: mingus_charles-mingus-ah-um.jpg
-
-- title: Pithecanthropus Erectus
+  cover: 19809577.jpg
+- id: 458807653
+  title: Mingus At Monterey (Live)
   artist: Charles Mingus
-  year: 1956
-  file: mingus_charlie-pithecanthropus-erectus.jpg
-
-- title:
-  artist:
-  year:
-  file: mitchell_blue-blue-soul.jpg
-
-- title:
-  artist:
-  year:
-  file: mitchell_blue-blues-moods.jpg
-
-- title:
-  artist:
-  year:
-  file: mitchell_blue-boos-horn.jpg
-
-- title:
-  artist:
-  year:
-  file: mitchell_blue-bring-it-home-to-me.jpg
-
-- title:
-  artist:
-  year:
-  file: mitchell_blue-the-thing-to-do.jpg
-
-- title: Dippin'
-  artist: Hank Mobley
-  year: 1962
-  file: mobley_hank-dippin.jpg
-
-- title: Hank Mobley Quartet
-  artist: Hank Mobley
-  year:
-  file: mobley_hank-hank-mobley-quartet.jpg
-
-- title: No Room for Squares
-  artist: Hank Mobley
   year: 1964
-  file: mobley_hank-no-room-for-squares.jpg
-
-- title: Roll Call
-  artist: Hank Mobley
-  year: 1960
-  file: mobley_hank-roll-call.jpg
-
-- title: Soul Station
-  artist: Hank Mobley
-  year: 1960
-  file: mobley_hank-soul-station.jpg
-
-- title: The Turnaround
-  artist: Hank Mobley
-  year:
-  file: mobley_hank-the-turnaround.jpg
-
-- title:
-  artist:
-  year:
-  file: monk_thelonious--genious-of-modern-music-1.jpg
-
-- title:
-  artist:
-  year:
-  file: monk_thelonious-.jpg
-
-- title:
-  artist:
-  year:
-  file: monk_thelonious-5-by-monk-5.jpg
-
-- title: Genius of Modern Music, Vol. 1
-  artist: Thelonious Monk
-  year: 1951
-  file: monk_thelonious-genius-modern-music-1.jpg
-
-- title: Misterioso
+  cover: 458807653.jpg
+- id: 169912752
+  title: Mingus Mingus Mingus Mingus Mingus
+  artist: Charles Mingus
+  year: 1964
+  cover: 169912752.jpg
+- id: 120567778
+  title: Minor Move (Expanded Edition)
+  artist: Tina Brooks
+  year: 1958
+  cover: 120567778.jpg
+- id: 157660479
+  title: MINT JAMS(Live)
+  artist: Casiopea
+  year: 1982
+  cover: 157660479.jpg
+- id: 134149255
+  title: Mirage
+  artist: The Awakening
+  year: 1973
+  cover: 134149255.jpg
+- id: 1218881
+  title: Misterioso
   artist: Thelonious Monk
   year: 1958
-  file: monk_thelonious-misterioso.jpg
-
-- title:
-  artist:
-  year:
-  file: monk_thelonious-monk-7053.jpg
-
-- title:
-  artist:
-  year:
-  file: monk_thelonious-monk-art-blakeys.jpg
-
-- title:
-  artist:
-  year:
-  file: monk_thelonious-monk-coltrane-carnegie-hall.jpg
-
-- title:
-  artist:
-  year:
-  file: monk_thelonious-monk-coltrane.jpg
-
-# (file continues — this file mirrors the original structure and keeps every `file:` entry untouched.
-# I filled fields where album identity and original release year could be confidently inferred from the filename and common discography knowledge.
-# I left entries blank where the filename was too short/ambiguous or likely contains typos that required external verification.)
+  cover: 1218881.jpg
+- id: 69405202
+  title: Misterioso (Live)
+  artist: Thelonious Monk
+  year: 1965
+  cover: 69405202.jpg
+- id: 104535600
+  title: Moanin'
+  artist: Art Blakey
+  year: 1958
+  cover: 104535600.jpg
+- id: 94554184
+  title: Mode For Joe
+  artist: Joe Henderson
+  year: 1966
+  cover: 94554184.jpg
+- id: 22073714
+  title: Modjo (Remastered)
+  artist: Modjo
+  year: 2001
+  cover: 22073714.jpg
+- id: 1779534
+  title: Monk. (Expanded Edition)
+  artist: Thelonious Monk
+  year: 1965
+  cover: 1779534.jpg
+- id: 3072290
+  title: Monk (RVG Remaster)
+  artist: Thelonious Monk
+  year: 1954
+  cover: 3072290.jpg
+- id: 2044465
+  title: Monk's Blues
+  artist: Thelonious Monk
+  year: 1968
+  cover: 2044465.jpg
+- id: 126186469
+  title: Monk's Dream (Remastered)
+  artist: Thelonious Monk
+  year: 1962
+  cover: 126186469.jpg
+- id: 126182340
+  title: Monk's Music (Remastered)
+  artist: Thelonious Monk
+  year: 1957
+  cover: 126182340.jpg
+- id: 437617023
+  title: Moon Beams (Remastered 2025)
+  artist: Bill Evans
+  year: 1962
+  cover: 437617023.jpg
+- id: 351800862
+  title: MORNING ISLAND
+  artist: Sadao Watanabe
+  year: 1979
+  cover: 351800862.jpg
+- id: 21447104
+  title: Mulligan Meets Monk [Original Jazz Classics Remasters]
+  artist: Thelonious Monk
+  year: 1957
+  cover: 21447104.jpg
+- id: 420866549
+  title: Multiple (Remastered 2025)
+  artist: Joe Henderson
+  year: 1973
+  cover: 420866549.jpg
+- id: 351805250
+  title: MY DEAR LIFE
+  artist: Sadao Watanabe
+  year: 1977
+  cover: 351805250.jpg
+- id: 68685335
+  title: My Favorite Things
+  artist: John Coltrane
+  year: 1961
+  cover: 68685335.jpg
+- id: 77686467
+  title: My Point Of View
+  artist: Herbie Hancock
+  year: 1963
+  cover: 77686467.jpg
+- id: 110765684
+  title: Natural Essence
+  artist: Tyrone Washington
+  year: 1969
+  cover: 110765684.jpg
+- id: 270974808
+  title: Nefertiti (2023 Remaster)
+  artist: Miles Davis
+  year: 1968
+  cover: 270974808.jpg
+- id: 77652040
+  title: Newk's Time
+  artist: Sonny Rollins
+  year: 1957
+  cover: 77652040.jpg
+- id: 99352082
+  title: Newport '63
+  artist: John Coltrane
+  year: 1993
+  cover: 99352082.jpg
+- id: 77668559
+  title: Night Dreamer (96kHz/24bit)
+  artist: Wayne Shorter
+  year: 1964
+  cover: 77668559.jpg
+- id: 77610691
+  title: Nights Of Ballads & Blues
+  artist: McCoy Tyner
+  year: 1963
+  cover: 77610691.jpg
+- id: 169912700
+  title: Night Train
+  artist: Oscar Peterson Trio
+  year: 1963
+  cover: 169912700.jpg
+- id: 200578791
+  title: Nijidensetsu -The Rainbow Goblins-
+  artist: Masayoshi Takanaka
+  year: 1986
+  cover: 200578791.jpg
+- id: 126184457
+  title: Nina Simone At Town Hall (Remastered)
+  artist: Nina Simone
+  year: 1959
+  cover: 126184457.jpg
+- id: 35668917
+  title: Nippon Soul
+  artist: Cannonball Adderley
+  year: 1963
+  cover: 35668917.jpg
+- id: 77582954
+  title: No Room For Squares
+  artist: Hank Mobley
+  year: 1963
+  cover: 77582954.jpg
+- id: 3644065
+  title: Now!
+  artist: Sonny Stitt
+  year: 1963
+  cover: 3644065.jpg
+- id: 153028
+  title: Now He Sings, Now He Sobs (Expanded Edition)
+  artist: Chick Corea
+  year: 1968
+  cover: 153028.jpg
+- id: 1389370
+  title: Oblique (Reissue)
+  artist: Bobby Hutcherson
+  year: 1967
+  cover: 1389370.jpg
+- id: 55391428
+  title: Obscured by Clouds
+  artist: Pink Floyd
+  year: 1972
+  cover: 55391428.jpg
+- id: 312694660
+  title: Octopus (Steven Wilson Mix)
+  artist: Gentle Giant
+  year: 1972
+  cover: 312694660.jpg
+- id: 68685419
+  title: "Ol\xE9 Coltrane"
+  artist: John Coltrane
+  year: 1961
+  cover: 68685419.jpg
+- id: 4016929
+  title: Once Upon A Time
+  artist: Earl Hines
+  year: 1966
+  cover: 4016929.jpg
+- id: 126071758
+  title: One Flight Up (Remastered 2015)
+  artist: Dexter Gordon
+  year: 1964
+  cover: 126071758.jpg
+- id: 77652454
+  title: One Step Beyond
+  artist: Jackie McLean
+  year: 1963
+  cover: 77652454.jpg
+- id: 85050510
+  title: On Impulse!
+  artist: Sonny Rollins
+  year: 1965
+  cover: 85050510.jpg
+- id: 1381003
+  title: Open Sesame (The Rudy Van Gelder Edition)
+  artist: Freddie Hubbard
+  year: 1960
+  cover: 1381003.jpg
+- id: 10907898
+  title: Orvieto
+  artist: Chick Corea
+  year: 2011
+  cover: 10907898.jpg
+- id: 1283699
+  title: Other Sounds
+  artist: Yusef Lateef
+  year: 1957
+  cover: 1283699.jpg
+- id: 2902867
+  title: Our Man In Paris (Rudy Van Gelder Edition)
+  artist: Dexter Gordon
+  year: 1963
+  cover: 2902867.jpg
+- id: 54597321
+  title: Outertimeinnerspace (Live)
+  artist: Ahmad Jamal
+  year: 1972
+  cover: 54597321.jpg
+- id: 1151121
+  title: Out Of The Cool
+  artist: Gil Evans
+  year: 1961
+  cover: 1151121.jpg
+- id: 77698545
+  title: Out To Lunch
+  artist: Eric Dolphy
+  year: 1964
+  cover: 77698545.jpg
+- id: 77609767
+  title: Page One
+  artist: Joe Henderson
+  year: 1963
+  cover: 77609767.jpg
+- id: 121091939
+  title: Pastel Blues
+  artist: Nina Simone
+  year: 1965
+  cover: 121091939.jpg
+- id: 18979810
+  title: People, Hell & Angels
+  artist: Jimi Hendrix
+  year: 2013
+  cover: 18979810.jpg
+- id: 22287237
+  title: Pharoah's First
+  artist: Pharoah Sanders
+  year: 1965
+  cover: 22287237.jpg
+- id: 1401762
+  title: Places And Spaces
+  artist: Donald Byrd
+  year: 1975
+  cover: 1401762.jpg
+- id: 154176807
+  title: Plays
+  artist: Chick Corea
+  year: 2020
+  cover: 154176807.jpg
+- id: 92090788
+  title: Plays Duke Ellington
+  artist: Thelonious Monk
+  year: 1955
+  cover: 92090788.jpg
+- id: 540009
+  title: Poinciana
+  artist: Ahmad Jamal
+  year: 1959
+  cover: 540009.jpg
+- id: 77634794
+  title: Point Of Departure
+  artist: Andrew Hill
+  year: 1965
+  cover: 77634794.jpg
+- id: 75169070
+  title: Portfolio Of Ahmad Jamal (Live At The Spotlite Club)
+  artist: Ahmad Jamal Trio
+  year: 1958
+  cover: 75169070.jpg
+- id: 77808696
+  title: Portrait In Jazz
+  artist: Bill Evans
+  year: 1960
+  cover: 77808696.jpg
+- id: 349711583
+  title: Power To The People (Remastered 2024)
+  artist: Joe Henderson
+  year: 1969
+  cover: 349711583.jpg
+- id: 184694911
+  title: Promises
+  artist: Floating Points
+  year: 2021
+  cover: 184694911.jpg
+- id: 35699427
+  title: Psychicemotus
+  artist: Yusef Lateef
+  year: 1965
+  cover: 35699427.jpg
+- id: 35655262
+  title: Ptah The El Daoud
+  artist: Alice Coltrane
+  year: 1970
+  cover: 35655262.jpg
+- id: 80711354
+  title: "Quem \xC9 Quem"
+  artist: "Jo\xE3o Donato"
+  year: 1973
+  cover: 80711354.jpg
+- id: 187319776
+  title: Quiet Kenny (Mono)
+  artist: Kenny Dorham
+  year: 1959
+  cover: 187319776.jpg
+- id: 79148826
+  title: Ready For Freddie
+  artist: Freddie Hubbard
+  year: 1960
+  cover: 79148826.jpg
+- id: 310695604
+  title: recorded LIVE and BEST-Early Alfa Years
+  artist: Casiopea
+  year: 2013
+  cover: 310695604.jpg
+- id: 4543532
+  title: Red Clay
+  artist: Freddie Hubbard
+  year: 1970
+  cover: 4543532.jpg
+- id: 77690305
+  title: Red Garland's Piano [Rudy Van Gelder Remaster]
+  artist: Red Garland
+  year: 2006
+  cover: 77690305.jpg
+- id: 77648646
+  title: Relaxin' With The Miles Davis Quintet
+  artist: Miles Davis
+  year: 1958
+  cover: 77648646.jpg
+- id: 191885692
+  title: Return To Forever
+  artist: Chick Corea
+  year: 1972
+  cover: 191885692.jpg
+- id: 334625609
+  title: Roll Call
+  artist: Hank Mobley
+  year: 1960
+  cover: 334625609.jpg
+- id: 26726602
+  title: '''Round About Midnight (Mono Version)'
+  artist: Miles Davis
+  year: 1991
+  cover: 26726602.jpg
+- id: 159659397
+  title: Ryo Fukui in New York
+  artist: Ryo Fukui
+  year: 1999
+  cover: 159659397.jpg
+- id: 29280716
+  title: Santana (III)
+  artist: Santana
+  year: 1971
+  cover: 29280716.jpg
+- id: 115090122
+  title: Savane (2019 Remaster)
+  artist: Ali Farka Toure
+  year: 2006
+  cover: 115090122.jpg
+- id: 77701374
+  title: Saxophone Colossus (Rudy Van Gelder Remaster)
+  artist: Sonny Rollins
+  year: 2014
+  cover: 77701374.jpg
+- id: 242586540
+  title: 'SCENERY OF JAPANESE JAZZ : BEST OF RYO FUKUI'
+  artist: Ryo Fukui
+  year: 2022
+  cover: 242586540.jpg
+- id: 77668731
+  title: Search For The New Land
+  artist: Lee Morgan
+  year: 1966
+  cover: 77668731.jpg
+- id: 77651713
+  title: Settin' The Pace
+  artist: John Coltrane
+  year: 1958
+  cover: 77651713.jpg
+- id: 640344
+  title: Sextant
+  artist: Herbie Hancock
+  year: 1973
+  cover: 640344.jpg
+- id: 200428882
+  title: Seychelles
+  artist: Masayoshi Takanaka
+  year: 2005
+  cover: 200428882.jpg
+- id: 104160703
+  title: 'Shades Of Blue: Madlib Invades Blue Note'
+  artist: Madlib
+  year: 2003
+  cover: 104160703.jpg
+- id: 564408
+  title: Silk & Soul (Expanded Edition)
+  artist: Nina Simone
+  year: 1967
+  cover: 564408.jpg
+- id: 108022895
+  title: Solitude
+  artist: Billie Holiday
+  year: 1956
+  cover: 108022895.jpg
+- id: 13493693
+  title: Solo-Concerts Bremen / Lausanne (Live)
+  artist: Keith Jarrett
+  year: 1973
+  cover: 13493693.jpg
+- id: 2044530
+  title: Solo Monk (Expanded Edition)
+  artist: Thelonious Monk
+  year: 1965
+  cover: 2044530.jpg
+- id: 72692670
+  title: Someday My Prince Will Come (Mono Version)
+  artist: Miles Davis
+  year: 1961
+  cover: 72692670.jpg
+- id: 2407652
+  title: Some Other Stuff (Remastered 2009 / Rudy Van Gelder Edition)
+  artist: Grachan Moncur III
+  year: 1964
+  cover: 2407652.jpg
+- id: 79414931
+  title: Somethin' Else
+  artist: Cannonball Adderley
+  year: 1958
+  cover: 79414931.jpg
+- id: 77698538
+  title: Song For My Father
+  artist: Horace Silver
+  year: 1965
+  cover: 77698538.jpg
+- id: 77724014
+  title: Sonny Rollins With The Modern Jazz Quartet
+  artist: Sonny Rollins
+  year: 1956
+  cover: 77724014.jpg
+- id: 89690938
+  title: Sorcerer
+  artist: Miles Davis
+  year: 1967
+  cover: 89690938.jpg
+- id: 16654849
+  title: Sorrow Tears and Blood
+  artist: Fela Kuti
+  year: 1977
+  cover: 16654849.jpg
+- id: 79266431
+  title: Soul Junction (Rudy Van Gelder Remaster)
+  artist: The Red Garland Quintet
+  year: 1957
+  cover: 79266431.jpg
+- id: 77691392
+  title: Soul Station
+  artist: Hank Mobley
+  year: 1960
+  cover: 77691392.jpg
+- id: 77648276
+  title: Soultrane
+  artist: John Coltrane
+  year: 1958
+  cover: 77648276.jpg
+- id: 35655534
+  title: Space is the Place
+  artist: Sun Ra
+  year: 1973
+  cover: 35655534.jpg
+- id: 105537208
+  title: Speakin' My Piece
+  artist: Horace Parlan Quintet
+  year: 1960
+  cover: 105537208.jpg
+- id: 1381740
+  title: Speak No Evil (The Rudy Van Gelder Edition)
+  artist: Wayne Shorter
+  year: 1966
+  cover: 1381740.jpg
+- id: 77644686
+  title: Standards (Vol. 1)
+  artist: Keith Jarrett
+  year: 1983
+  cover: 77644686.jpg
+- id: 77623774
+  title: Standards (Vol. 2)
+  artist: Keith Jarrett
+  year: 1985
+  cover: 77623774.jpg
+- id: 127808667
+  title: Stan Getz And The Oscar Peterson Trio
+  artist: Stan Getz
+  year: 1957
+  cover: 127808667.jpg
+- id: 5945857
+  title: Stan Getz/Cal Tjader Sextet [Original Jazz Classics Remasters]
+  artist: Stan Getz
+  year: 1958
+  cover: 5945857.jpg
+- id: 13345161
+  title: Stan Getz Plays (Expanded Edition)
+  artist: Stan Getz
+  year: 1954
+  cover: 13345161.jpg
+- id: 77632422
+  title: Stan Getz With Guest Artist Laurindo Almeida
+  artist: Stan Getz
+  year: 1963
+  cover: 77632422.jpg
+- id: 4012189
+  title: Stan Meets Chet
+  artist: Stan Getz
+  year: 1958
+  cover: 4012189.jpg
+- id: 77648427
+  title: Stardust
+  artist: John Coltrane
+  year: 1959
+  cover: 77648427.jpg
+- id: 77648752
+  title: Steamin' With The Miles Davis Quintet
+  artist: Miles Davis
+  year: 1961
+  cover: 77648752.jpg
+- id: 3970996
+  title: Stellar Regions
+  artist: John Coltrane
+  year: 1967
+  cover: 3970996.jpg
+- id: 4543604
+  title: Stone Flower (CTI Records 40th Anniversary Edition)
+  artist: Antonio Carlos Jobim
+  year: 1970
+  cover: 4543604.jpg
+- id: 4129659
+  title: Straight Ahead
+  artist: Count Basie
+  year: 1967
+  cover: 4129659.jpg
+- id: 2044460
+  title: Straight, No Chaser
+  artist: Thelonious Monk
+  year: 1967
+  cover: 2044460.jpg
+- id: 86326398
+  title: Street Singer
+  artist: Jackie McLean
+  year: 1960
+  cover: 86326398.jpg
+- id: 191886295
+  title: Sun Bear Concerts (Live)
+  artist: Keith Jarrett
+  year: 1978
+  cover: 191886295.jpg
+- id: 328087511
+  title: Sunday At The Village Vanguard (Live At The Village Vanguard / 1961)
+  artist: Bill Evans
+  year: 1961
+  cover: 328087511.jpg
+- id: 98958675
+  title: Sun Ra with Pharoah Sanders and Black Harold
+  artist: Sun Ra
+  year: 2018
+  cover: 98958675.jpg
+- id: 248385337
+  title: SUPER FLIGHT
+  artist: Casiopea
+  year: 1980
+  cover: 248385337.jpg
+- id: 77676654
+  title: Swing And Soul
+  artist: Lou Donaldson
+  year: 1957
+  cover: 77676654.jpg
+- id: 71055358
+  title: Swingin' With Bud
+  artist: Bud Powell
+  year: 1957
+  cover: 71055358.jpg
+- id: 199003477
+  title: Takanaka
+  artist: Masayoshi Takanaka
+  year: 1977
+  cover: 199003477.jpg
+- id: 77632947
+  title: Takin' Off
+  artist: Herbie Hancock
+  year: 1962
+  cover: 77632947.jpg
+- id: 34887843
+  title: Tauhid
+  artist: Pharoah Sanders
+  year: 1967
+  cover: 34887843.jpg
+- id: 77611260
+  title: "That\u2019s Where It\u2019s At"
+  artist: Stanley Turrentine
+  year: 1962
+  cover: 77611260.jpg
+- id: 335464204
+  title: The Ahmad Jamal Trio
+  artist: Ahmad Jamal
+  year: 1956
+  cover: 335464204.jpg
+- id: 1562641
+  title: 'The Amazing Bud Powell: Vol. 1 (The Rudy Van Gelder Edition)'
+  artist: Bud Powell
+  year: 1951
+  cover: 1562641.jpg
+- id: 77618455
+  title: The Artistry Of Freddie Hubbard
+  artist: Freddie Hubbard
+  year: 1962
+  cover: 77618455.jpg
+- id: 73361227
+  title: The Art Pepper Quartet (feat. Russ Freeman, Ben Tucker & Gary Frommer) [2017
+    Remastered]
+  artist: The Art Pepper Quartet
+  year: 1957
+  cover: 73361227.jpg
+- id: 35655405
+  title: The Awakening
+  artist: Ahmad Jamal Trio
+  year: 1970
+  cover: 35655405.jpg
+- id: 1389325
+  title: The Big Beat (The Rudy Van Gelder Edition)
+  artist: Art Blakey
+  year: 1960
+  cover: 1389325.jpg
+- id: 77618473
+  title: The Black Saint And The Sinner Lady
+  artist: Charles Mingus
+  year: 1963
+  cover: 77618473.jpg
+- id: 188224042
+  title: The Blues And The Abstract Truth
+  artist: Oliver Nelson
+  year: 1961
+  cover: 188224042.jpg
+- id: 298794
+  title: The Blue Yusef Lateef
+  artist: Yusef Lateef
+  year: 1968
+  cover: 298794.jpg
+- id: 41692
+  title: The Bridge
+  artist: Sonny Rollins
+  year: 1962
+  cover: 41692.jpg
+- id: 77660820
+  title: The Cape Verdean Blues
+  artist: Horace Silver
+  year: 1965
+  cover: 77660820.jpg
+- id: 351125322
+  title: The Carnegie Hall Concert (Live)
+  artist: Alice Coltrane
+  year: 2024
+  cover: 351125322.jpg
+- id: 198127405
+  title: The Centaur And The Phoenix (Remastered)
+  artist: Yusef Lateef
+  year: 1961
+  cover: 198127405.jpg
+- id: 303767613
+  title: The Chick Corea Elektric Band
+  artist: Chick Corea Elektric Band
+  year: 1986
+  cover: 303767613.jpg
+- id: 49156571
+  title: The Complete Concert by the Sea (Expanded)
+  artist: Erroll Garner
+  year: 1955
+  cover: 49156571.jpg
+- id: 5740634
+  title: The Composer Of " Desafinado", Plays
+  artist: Antonio Carlos Jobim
+  year: 1963
+  cover: 5740634.jpg
+- id: 227407776
+  title: The Doors
+  artist: The Doors
+  year: 1967
+  cover: 227407776.jpg
+- id: 48356589
+  title: The Eastern Moods Of
+  artist: Ahmed Abdul-Malik
+  year: 1963
+  cover: 48356589.jpg
+- id: 77700691
+  title: The Elements
+  artist: Joe Henderson
+  year: 1973
+  cover: 77700691.jpg
+- id: 43928534
+  title: The Epic
+  artist: Kamasi Washington
+  year: 2015
+  cover: 43928534.jpg
+- id: 55391474
+  title: The Final Cut
+  artist: Pink Floyd
+  year: 1983
+  cover: 55391474.jpg
+- id: 16807175
+  title: The Freewheelin' Bob Dylan
+  artist: Bob Dylan
+  year: 1963
+  cover: 16807175.jpg
+- id: 250222101
+  title: The Futuristic Sounds Of Sun Ra
+  artist: Sun Ra
+  year: 1962
+  cover: 250222101.jpg
+- id: 3979833
+  title: The Golden Flute
+  artist: Yusef Lateef
+  year: 1966
+  cover: 3979833.jpg
+- id: 16726644
+  title: The Heliocentric Worlds of Sun Ra
+  artist: Sun Ra
+  year: 1965
+  cover: 16726644.jpg
+- id: 640424
+  title: The Jazz Messengers
+  artist: Art Blakey
+  year: 1956
+  cover: 640424.jpg
+- id: 77555830
+  title: The John Coltrane Quartet Plays
+  artist: John Coltrane
+  year: 1965
+  cover: 77555830.jpg
+- id: 3276106
+  title: The Kicker
+  artist: Bobby Hutcherson
+  year: 1999
+  cover: 3276106.jpg
+- id: 10843697
+  title: "The K\xF6ln Concert"
+  artist: Keith Jarrett
+  year: 1975
+  cover: 10843697.jpg
+- id: 6973524
+  title: Thelonious Alone in San Francisco [Original Jazz Classics Remasters]
+  artist: Thelonious Monk
+  year: 1959
+  cover: 6973524.jpg
+- id: 3872203
+  title: Thelonious Himself
+  artist: Thelonious Monk
+  year: 1957
+  cover: 3872203.jpg
+- id: 79130290
+  title: Thelonious Monk and Sonny Rollins (Rudy Van Gelder Remaster)
+  artist: Thelonious Monk
+  year: 1955
+  cover: 79130290.jpg
+- id: 295699593
+  title: Thelonious Monk With John Coltrane
+  artist: Thelonious Monk
+  year: 1961
+  cover: 295699593.jpg
+- id: 35312706
+  title: The Mad Hatter
+  artist: Chick Corea
+  year: 1978
+  cover: 35312706.jpg
+- id: 145942944
+  title: The Magnificent Charlie Parker
+  artist: Charlie Parker
+  year: 1955
+  cover: 145942944.jpg
+- id: 35655553
+  title: Thembi
+  artist: Pharoah Sanders
+  year: 1971
+  cover: 35655553.jpg
+- id: 10843885
+  title: The Melody At Night, With You
+  artist: Keith Jarrett
+  year: 1999
+  cover: 10843885.jpg
+- id: 55391369
+  title: The Piper at the Gates of Dawn
+  artist: Pink Floyd
+  year: 1967
+  cover: 55391369.jpg
+- id: 39136473
+  title: The Power and the Glory (Mixed by Steven Wilson)
+  artist: Gentle Giant
+  year: 2014
+  cover: 39136473.jpg
+- id: 15565563
+  title: 'The Quintet: Jazz At Massey Hall [Original Jazz Classics Remasters]'
+  artist: Charlie Parker
+  year: 1953
+  cover: 15565563.jpg
+- id: 77698504
+  title: The Real McCoy (2012 Remastered)
+  artist: McCoy Tyner
+  year: 1967
+  cover: 77698504.jpg
+- id: 226709404
+  title: The Return
+  artist: Kamaal Williams
+  year: 2018
+  cover: 226709404.jpg
+- id: 77647657
+  title: The Rumproller
+  artist: Lee Morgan
+  year: 1965
+  cover: 77647657.jpg
+- id: 279975
+  title: The Shape Of Jazz To Come
+  artist: Ornette Coleman
+  year: 1958
+  cover: 279975.jpg
+- id: 1380996
+  title: The Sidewinder (The Rudy Van Gelder Edition)
+  artist: Lee Morgan
+  year: 1963
+  cover: 1380996.jpg
+- id: 227407748
+  title: The Soft Parade
+  artist: The Doors
+  year: 1969
+  cover: 227407748.jpg
+- id: 2909722
+  title: The Soothsayer (Remastered)
+  artist: Wayne Shorter
+  year: 1965
+  cover: 2909722.jpg
+- id: 110949930
+  title: The Source (2017 Remastered Version)
+  artist: Ali Farka Toure
+  year: 1991
+  cover: 110949930.jpg
+- id: 77699583
+  title: The Survivors' Suite
+  artist: Keith Jarrett
+  year: 1977
+  cover: 77699583.jpg
+- id: 77641941
+  title: The Thing To Do
+  artist: Blue Mitchell
+  year: 1964
+  cover: 77641941.jpg
+- id: 2407646
+  title: The Tokyo Blues (Remastered)
+  artist: Horace Silver
+  year: 1960
+  cover: 2407646.jpg
+- id: 134894322
+  title: The Trumpet Artistry Of Chet Baker
+  artist: Chet Baker
+  year: 1954
+  cover: 134894322.jpg
+- id: 55391447
+  title: The Wall
+  artist: Pink Floyd
+  year: 1979
+  cover: 55391447.jpg
+- id: 13434518
+  title: The Water Is Wide
+  artist: Charles Lloyd
+  year: 2000
+  cover: 13434518.jpg
+- id: 242234602
+  title: The Yussef Dayes Experience Live at Joshua Tree (Presented by Soulection)
+  artist: Yussef Dayes
+  year: 2022
+  cover: 242234602.jpg
+- id: 335499046
+  title: The Yussef Dayes Experience - Live From Malibu
+  artist: Yussef Dayes
+  year: 2024
+  cover: 335499046.jpg
+- id: 52133016
+  title: Things Are Getting Better
+  artist: Cannonball Adderley
+  year: 1958
+  cover: 52133016.jpg
+- id: 2847730
+  title: Tijuana Moods
+  artist: Charles Mingus
+  year: 1962
+  cover: 2847730.jpg
+- id: 126185065
+  title: Time Out (Remastered)
+  artist: Dave Brubeck
+  year: 1959
+  cover: 126185065.jpg
+- id: 3043146
+  title: Today And Tomorrow
+  artist: McCoy Tyner
+  year: 1963
+  cover: 3043146.jpg
+- id: 16371628
+  title: To-Day's Sound
+  artist: Piero Umiliani
+  year: 1997
+  cover: 16371628.jpg
+- id: 19920261
+  title: To Love Somebody (Expanded Edition)
+  artist: Nina Simone
+  year: 1969
+  cover: 19920261.jpg
+- id: 30148303
+  title: Toshiko Akiyoshi Recital
+  artist: Toshiko Akiyoshi
+  year: 2010
+  cover: 30148303.jpg
+- id: 296397478
+  title: Toshiko Mariano Quartet (Remastered)
+  artist: Toshiko Akiyoshi
+  year: 1961
+  cover: 296397478.jpg
+- id: 111213261
+  title: Toshiko's Piano
+  artist: Toshiko Akiyoshi
+  year: 1954
+  cover: 111213261.jpg
+- id: 77735549
+  title: Total Eclipse
+  artist: Bobby Hutcherson
+  year: 1968
+  cover: 77735549.jpg
+- id: 77708313
+  title: Traneing In (Rudy Van Gelder Remaster)
+  artist: John Coltrane
+  year: 1957
+  cover: 77708313.jpg
+- id: 91386116
+  title: Trilogy
+  artist: Chick Corea Trio
+  year: 2013
+  cover: 91386116.jpg
+- id: 121101271
+  title: Trilogy 2
+  artist: Chick Corea
+  year: 2018
+  cover: 121101271.jpg
+- id: 406883023
+  title: Trilogy 3 (Live)
+  artist: Chick Corea
+  year: 2025
+  cover: 406883023.jpg
+- id: 77634865
+  title: True Blue
+  artist: Tina Brooks
+  year: 1960
+  cover: 77634865.jpg
+- id: 8203852
+  title: Turkish Women at the Bath
+  artist: Pete La Roca
+  year: 1967
+  cover: 8203852.jpg
+- id: 68713195
+  title: Tutu
+  artist: Miles Davis
+  year: 1986
+  cover: 68713195.jpg
+- id: 5945834
+  title: Ugetsu [Original Jazz Classics Remasters]
+  artist: Art Blakey
+  year: 1963
+  cover: 5945834.jpg
+- id: 77616197
+  title: Una Mas (Remastered 2014)
+  artist: Kenny Dorham
+  year: 1963
+  cover: 77616197.jpg
+- id: 153017
+  title: Undercurrent
+  artist: Bill Evans
+  year: 1963
+  cover: 153017.jpg
+- id: 19931947
+  title: Undercurrent (Remastered)
+  artist: Bill Evans
+  year: 1963
+  cover: 19931947.jpg
+- id: 72359483
+  title: Underground
+  artist: Thelonious Monk
+  year: 1968
+  cover: 72359483.jpg
+- id: 77698531
+  title: Unity
+  artist: Larry Young
+  year: 1966
+  cover: 77698531.jpg
+- id: 2321268
+  title: Up And Down (Remastered)
+  artist: Horace Parlan
+  year: 1961
+  cover: 2321268.jpg
+- id: 86317678
+  title: Us Three
+  artist: Horace Parlan
+  year: 1960
+  cover: 86317678.jpg
+- id: 1382943
+  title: Vertigo
+  artist: Jackie McLean
+  year: 1963
+  cover: 1382943.jpg
+- id: 1507196
+  title: Village Vanguard 2 (Live)
+  artist: Junko Onishi
+  year: 1994
+  cover: 1507196.jpg
+- id: 77631637
+  title: Volume 1
+  artist: Miles Davis
+  year: 2003
+  cover: 77631637.jpg
+- id: 77645081
+  title: Volume 2
+  artist: Miles Davis
+  year: 1953
+  cover: 77645081.jpg
+- id: 75168715
+  title: Volume IV (Live At The Spotlite Club, Washington, D.C./1958)
+  artist: Ahmad Jamal Trio
+  year: 1958
+  cover: 75168715.jpg
+- id: 429410138
+  title: Walkin' (Remastered 2025)
+  artist: Miles Davis
+  year: 1957
+  cover: 429410138.jpg
+- id: 302519180
+  title: Waltz For Debby (Live At The Village Vanguard / 1961)
+  artist: Bill Evans
+  year: 1961
+  cover: 302519180.jpg
+- id: 119987821
+  title: Wave
+  artist: Antonio Carlos Jobim
+  year: 1967
+  cover: 119987821.jpg
+- id: 60757053
+  title: Wede Harer Guzo
+  artist: Hailu Mergia
+  year: 1978
+  cover: 60757053.jpg
+- id: 77618792
+  title: We Get Requests
+  artist: Oscar Peterson Trio
+  year: 1964
+  cover: 77618792.jpg
+- id: 454259141
+  title: Wheelin' And Dealin' (Remastered 2025)
+  artist: Frank Wess
+  year: 2025
+  cover: 454259141.jpg
+- id: 110446854
+  title: Wisdom Through Music
+  artist: Pharoah Sanders
+  year: 1973
+  cover: 110446854.jpg
+- id: 293116676
+  title: Workin' With The Miles Davis Quintet
+  artist: Miles Davis
+  year: 1959
+  cover: 293116676.jpg
+- id: 77633781
+  title: Workout
+  artist: Hank Mobley
+  year: 1961
+  cover: 77633781.jpg
+- id: 226708433
+  title: Wu Hen
+  artist: Kamaal Williams
+  year: 2020
+  cover: 226708433.jpg
+- id: 345229736
+  title: Yakhal' Inkomo
+  artist: Mankunku Quartet
+  year: 1968
+  cover: 345229736.jpg
+- id: 192088493
+  title: You Must Believe In Spring (Remastered Version)
+  artist: Bill Evans
+  year: 1981
+  cover: 192088493.jpg
+- id: 17041298
+  title: Zombie
+  artist: Fela Kuti
+  year: 1977
+  cover: 17041298.jpg
